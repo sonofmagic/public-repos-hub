@@ -5,6 +5,8 @@ name: generate readme.md CI
 
 on:
   workflow_dispatch:
+  push:
+    branches: ['main']
 
 jobs:
   build:
