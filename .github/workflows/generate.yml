@@ -5,6 +5,8 @@ name: generate readme.md CI
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '5 0 * * *'
 #   push:
 #     branches: ['main']
 
@@ -18,11 +20,11 @@ jobs:
       with:
         node-version: 16
         cache: 'npm'
-#     - name: Generate markdown files
-#       uses: sonofmagic/github-repository-distributor@main
-#       with:
-#         token: ${{ secrets.PERSONAL_TOKEN }}
-#         username: 'sonofmagic'
+    - name: Generate markdown files
+      uses: sonofmagic/github-repository-distributor@main
+      with:
+        token: ${{ secrets.PERSONAL_TOKEN }}
+        username: 'sonofmagic'
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
