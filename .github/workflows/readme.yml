@@ -19,9 +19,9 @@ jobs:
     - name: Generate markdown files
       uses: sonofmagic/github-repository-distributor@main
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.PERSONAL_TOKEN }}
         username: 'sonofmagic'
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        github_token: ${{ secrets.PERSONAL_TOKEN }}
