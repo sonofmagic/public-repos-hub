@@ -19,7 +19,6 @@ jobs:
       uses: actions/setup-node@v2
       with:
         node-version: 16
-        cache: 'npm'
     - name: Generate markdown files
       uses: sonofmagic/github-repository-distributor@main
       with:
