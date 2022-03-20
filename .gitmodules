@@ -1,0 +1,3 @@
+[submodule "private-repos-hub"]
+	path = private-repos-hub
+	url = git@github.com:sonofmagic/private-repos-hub.git
