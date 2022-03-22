@@ -357,21 +357,21 @@
 
 ## TypeScript (23)
 
-1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-03-18 15:40:42)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-03-21 19:33:35)
+
+    把 tailwindcss jit 引擎，带入小程序开发吧
+
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-03-21 08:34:14)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-2.  [tailwindcss-core-plugins-extractor](https://github.com/sonofmagic/tailwindcss-core-plugins-extractor) (2022-03-17 16:06:06)
+3.  [tailwindcss-core-plugins-extractor](https://github.com/sonofmagic/tailwindcss-core-plugins-extractor) (2022-03-17 16:06:06)
 
     tailwindcss-corePlugins-extractor
 
-3.  [github-repository-distributor](https://github.com/sonofmagic/github-repository-distributor) (2022-03-17 05:05:07)
+4.  [github-repository-distributor](https://github.com/sonofmagic/github-repository-distributor) (2022-03-17 05:05:07)
 
     group-your-github-repository
-
-4.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-03-14 11:50:40)
-
-    把 tailwindcss jit 引擎，带入小程序开发吧
 
 5.  [github-readme-markdown-generator](https://github.com/sonofmagic/github-readme-markdown-generator) 📚 (2022-03-11 15:50:35)
 
@@ -447,7 +447,7 @@
 
 ## Vue (14)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-03-08 08:46:26)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-03-21 19:33:45)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -543,4 +543,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-03-21 01:10:46
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-03-22 01:17:54
