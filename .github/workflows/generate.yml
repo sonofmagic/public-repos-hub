@@ -24,6 +24,7 @@ jobs:
       with:
         token: ${{ secrets.PERSONAL_TOKEN }}
         username: 'sonofmagic'
+        includeFork: 'false'
     - name: Commit & Push changes
       uses: actions-js/push@master
       with:
