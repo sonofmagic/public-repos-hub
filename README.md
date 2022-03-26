@@ -12,45 +12,45 @@
 
 ## JavaScript (36)
 
-1.  [ascii-art-avatar](https://github.com/sonofmagic/ascii-art-avatar) (2022-03-12 03:50:50)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-03-25 06:31:50)
+
+    uni-app-vue2-tailwind-vscode-template
+
+2.  [ascii-art-avatar](https://github.com/sonofmagic/ascii-art-avatar) (2022-03-12 03:50:50)
 
     serverless image generator
 
-2.  [weapp](https://github.com/sonofmagic/weapp) (2022-03-10 15:35:38)
+3.  [weapp](https://github.com/sonofmagic/weapp) (2022-03-10 15:35:38)
 
     微信小程序： 程序员名片 项目
 
-3.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-03-10 08:05:41)
+4.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-03-10 08:05:41)
 
     npm-lib-template
 
-4.  [vue-component-creator](https://github.com/sonofmagic/vue-component-creator) (2022-03-01 03:40:05)
+5.  [vue-component-creator](https://github.com/sonofmagic/vue-component-creator) (2022-03-01 03:40:05)
 
     vue-component-creator
 
-5.  [serverless-sqlite-db](https://github.com/sonofmagic/serverless-sqlite-db) (2022-02-22 15:32:05)
+6.  [serverless-sqlite-db](https://github.com/sonofmagic/serverless-sqlite-db) (2022-02-22 15:32:05)
 
     host sqlite-db in csf
 
-6.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-02-22 11:38:28)
+7.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-02-22 11:38:28)
 
     uni-app-vue3-tailwind-vscode-template
 
-7.  [vue3-jsx-rendertron](https://github.com/sonofmagic/vue3-jsx-rendertron) (2022-02-12 11:09:13)
+8.  [vue3-jsx-rendertron](https://github.com/sonofmagic/vue3-jsx-rendertron) (2022-02-12 11:09:13)
 
     Tencent Serverless SCF Headless chromium
 
-8.  [npm-lib-webpack-template](https://github.com/sonofmagic/npm-lib-webpack-template) (2022-02-11 01:58:38)
+9.  [npm-lib-webpack-template](https://github.com/sonofmagic/npm-lib-webpack-template) (2022-02-11 01:58:38)
 
     npm-lib-webpack-template
 
-9.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2022-02-09 10:29:55)
+10. [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2022-02-09 10:29:55)
 
     使用 webpack,rollup,esbuild 来打包nodejs
-
-10. [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-02-08 06:57:02)
-
-    uni-app-vue2-tailwind-vscode-template
 
 11. [awesome](https://github.com/sonofmagic/awesome) (2022-01-17 06:19:23)
 
@@ -146,7 +146,7 @@
 
 ## TypeScript (21)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-03-23 11:31:23)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-03-25 05:06:00)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
 
@@ -228,7 +228,7 @@
 
 ## Vue (13)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-03-21 19:33:45)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-03-25 06:32:19)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -332,4 +332,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-03-25 01:11:58
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-03-26 01:10:10
