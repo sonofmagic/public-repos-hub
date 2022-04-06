@@ -146,13 +146,13 @@
 
 ## TypeScript (22)
 
-1.  [md2cwm](https://github.com/sonofmagic/md2cwm) (2022-04-04 04:41:41)
-
-    markdown 2 confluence better
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-04-03 12:32:10)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-04-05 16:59:27)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
+
+2.  [md2cwm](https://github.com/sonofmagic/md2cwm) (2022-04-04 04:41:41)
+
+    markdown 2 confluence better
 
 3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-03-26 12:27:56)
 
@@ -338,4 +338,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-04-05 01:17:19
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-04-06 01:20:12
