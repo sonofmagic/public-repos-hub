@@ -12,17 +12,17 @@
 
 ## JavaScript (36)
 
-1.  [vue3-jsx-rendertron](https://github.com/sonofmagic/vue3-jsx-rendertron) (2022-03-27 11:46:15)
+1.  [ascii-art-avatar](https://github.com/sonofmagic/ascii-art-avatar) (2022-04-06 15:13:36)
+
+    serverless image generator
+
+2.  [vue3-jsx-rendertron](https://github.com/sonofmagic/vue3-jsx-rendertron) (2022-03-27 11:46:15)
 
     Tencent Serverless SCF Headless chromium
 
-2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-03-25 06:31:50)
+3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-03-25 06:31:50)
 
     uni-app-vue2-tailwind-vscode-template
-
-3.  [ascii-art-avatar](https://github.com/sonofmagic/ascii-art-avatar) (2022-03-12 03:50:50)
-
-    serverless image generator
 
 4.  [weapp](https://github.com/sonofmagic/weapp) (2022-03-10 15:35:38)
 
@@ -338,4 +338,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-04-06 01:20:12
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-04-06 16:33:26
