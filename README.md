@@ -232,21 +232,21 @@
 
 ## Vue (13)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-04-04 06:49:03)
+1.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-04-14 07:43:22)
+
+    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-04-04 06:49:03)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [universal-vue-library-template](https://github.com/sonofmagic/universal-vue-library-template) (2022-02-27 14:29:58)
+3.  [universal-vue-library-template](https://github.com/sonofmagic/universal-vue-library-template) (2022-02-27 14:29:58)
 
     universal-vue-library-template
 
-3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-02-25 08:50:04)
+4.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-02-25 08:50:04)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
-
-4.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2021-12-18 10:33:52)
-
-    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
 5.  [vnode-in-vue](https://github.com/sonofmagic/vnode-in-vue) (2021-12-09 17:05:22)
 
@@ -338,4 +338,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-04-14 01:36:17
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-04-15 01:23:22
