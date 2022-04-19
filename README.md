@@ -142,13 +142,13 @@
 
 ## TypeScript (23)
 
-1.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-04-17 10:08:43)
-
-    npx yangqiming
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-04-16 02:22:19)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-04-18 07:32:41)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
+
+2.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-04-17 10:08:43)
+
+    npx yangqiming
 
 3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-04-12 06:12:30)
 
@@ -338,4 +338,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-04-18 01:44:43
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-04-19 01:41:35
