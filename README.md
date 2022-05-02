@@ -12,37 +12,37 @@
 
 ## JavaScript (35)
 
-1.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-04-25 02:45:50)
+1.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-05-01 05:06:54)
+
+    uni-app-vue3-tailwind-vscode-template
+
+2.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-04-25 02:45:50)
 
     npm-lib-template
 
-2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-04-25 01:29:50)
+3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-04-25 01:29:50)
 
     uni-app-vue2-tailwind-vscode-template
 
-3.  [ascii-art-avatar](https://github.com/sonofmagic/ascii-art-avatar) (2022-04-06 15:13:36)
+4.  [ascii-art-avatar](https://github.com/sonofmagic/ascii-art-avatar) (2022-04-06 15:13:36)
 
     serverless image generator
 
-4.  [vue3-jsx-rendertron](https://github.com/sonofmagic/vue3-jsx-rendertron) (2022-03-27 11:46:15)
+5.  [vue3-jsx-rendertron](https://github.com/sonofmagic/vue3-jsx-rendertron) (2022-03-27 11:46:15)
 
     Tencent Serverless SCF Headless chromium
 
-5.  [weapp](https://github.com/sonofmagic/weapp) (2022-03-10 15:35:38)
+6.  [weapp](https://github.com/sonofmagic/weapp) (2022-03-10 15:35:38)
 
     微信小程序： 程序员名片 项目
 
-6.  [vue-component-creator](https://github.com/sonofmagic/vue-component-creator) (2022-03-01 03:40:05)
+7.  [vue-component-creator](https://github.com/sonofmagic/vue-component-creator) (2022-03-01 03:40:05)
 
     vue-component-creator
 
-7.  [serverless-sqlite-db](https://github.com/sonofmagic/serverless-sqlite-db) (2022-02-22 15:32:05)
+8.  [serverless-sqlite-db](https://github.com/sonofmagic/serverless-sqlite-db) (2022-02-22 15:32:05)
 
     host sqlite-db in csf
-
-8.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-02-22 11:38:28)
-
-    uni-app-vue3-tailwind-vscode-template
 
 9.  [npm-lib-webpack-template](https://github.com/sonofmagic/npm-lib-webpack-template) (2022-02-11 01:58:38)
 
@@ -338,4 +338,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-01 02:01:55
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-02 01:46:14
