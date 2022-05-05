@@ -142,9 +142,9 @@
 
 ## TypeScript (24)
 
-1.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-05-03 17:52:03)
+1.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-05-04 14:51:08)
 
-    利用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
+    多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
 
 2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-02 12:09:15)
 
@@ -342,4 +342,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-04 01:45:18
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-05 01:41:03
