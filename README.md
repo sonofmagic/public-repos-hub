@@ -3,7 +3,7 @@
 *   [public-repos-hub](#public-repos-hub)
     *   [JavaScript (35)](#javascript-35)
     *   [TypeScript (24)](#typescript-24)
-    *   [Vue (13)](#vue-13)
+    *   [Vue (14)](#vue-14)
     *   [unknown (11)](#unknown-11)
     *   [C# (3)](#c-3)
     *   [C++ (1)](#c-1)
@@ -142,13 +142,13 @@
 
 ## TypeScript (24)
 
-1.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-05-04 14:51:08)
-
-    多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-02 12:09:15)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-07 08:53:25)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
+
+2.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-05-04 14:51:08)
+
+    多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
 
 3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-05-02 12:08:35)
 
@@ -234,51 +234,53 @@
 
 24. [vue-egg-graphql](https://github.com/sonofmagic/vue-egg-graphql) (2020-12-16 05:46:49)
 
-## Vue (13)
+## Vue (14)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-05-03 06:06:15)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-05-07 09:30:48)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-04-22 08:36:26)
+2.  [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2022-05-07 09:00:45)
+
+3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-04-22 08:36:26)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
 
-3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-04-14 07:43:22)
+4.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-04-14 07:43:22)
 
     A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
-4.  [universal-vue-library-template](https://github.com/sonofmagic/universal-vue-library-template) (2022-02-27 14:29:58)
+5.  [universal-vue-library-template](https://github.com/sonofmagic/universal-vue-library-template) (2022-02-27 14:29:58)
 
     universal-vue-library-template
 
-5.  [vnode-in-vue](https://github.com/sonofmagic/vnode-in-vue) (2021-12-09 17:05:22)
+6.  [vnode-in-vue](https://github.com/sonofmagic/vnode-in-vue) (2021-12-09 17:05:22)
 
     vnode-in-vue
 
-6.  [vue-offscreen-canvas-worker-jszip](https://github.com/sonofmagic/vue-offscreen-canvas-worker-jszip) (2021-12-09 16:17:06)
+7.  [vue-offscreen-canvas-worker-jszip](https://github.com/sonofmagic/vue-offscreen-canvas-worker-jszip) (2021-12-09 16:17:06)
 
     vue-offscreen-canvas-worker-jszip
 
-7.  [miniprogram-qrcode-clip](https://github.com/sonofmagic/miniprogram-qrcode-clip) (2021-10-28 08:09:19)
+8.  [miniprogram-qrcode-clip](https://github.com/sonofmagic/miniprogram-qrcode-clip) (2021-10-28 08:09:19)
 
     clip miniprogram qrcode center circle area at client side to your custom image!&#x20;
 
-8.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2021-10-16 09:18:32)
+9.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2021-10-16 09:18:32)
 
-9.  [Jamstack-with-serverless-framework](https://github.com/sonofmagic/Jamstack-with-serverless-framework) (2021-07-06 03:25:13)
+10. [Jamstack-with-serverless-framework](https://github.com/sonofmagic/Jamstack-with-serverless-framework) (2021-07-06 03:25:13)
 
     Serverless Framework CI/CD with Github Actions
 
-10. [tencent-scf-reserved-instance-test](https://github.com/sonofmagic/tencent-scf-reserved-instance-test) (2021-05-19 14:59:56)
+11. [tencent-scf-reserved-instance-test](https://github.com/sonofmagic/tencent-scf-reserved-instance-test) (2021-05-19 14:59:56)
 
-11. [react-vue-jsx-compare](https://github.com/sonofmagic/react-vue-jsx-compare) (2020-12-18 10:11:02)
+12. [react-vue-jsx-compare](https://github.com/sonofmagic/react-vue-jsx-compare) (2020-12-18 10:11:02)
 
     react-vue-jsx-compare
 
-12. [express-dynamic-middleware](https://github.com/sonofmagic/express-dynamic-middleware) (2020-12-16 05:46:56)
+13. [express-dynamic-middleware](https://github.com/sonofmagic/express-dynamic-middleware) (2020-12-16 05:46:56)
 
-13. [dymamic-color-theme](https://github.com/sonofmagic/dymamic-color-theme) (2020-12-16 05:46:46)
+14. [dymamic-color-theme](https://github.com/sonofmagic/dymamic-color-theme) (2020-12-16 05:46:46)
 
 ## unknown (11)
 
@@ -342,4 +344,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-07 01:21:15
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-08 01:38:19
