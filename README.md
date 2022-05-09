@@ -142,17 +142,17 @@
 
 ## TypeScript (24)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-07 08:53:25)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-09 01:21:04)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
 
-2.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-05-04 14:51:08)
-
-    多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
-
-3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-05-02 12:08:35)
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-05-08 08:33:54)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+3.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-05-04 14:51:08)
+
+    多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
 
 4.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-04-17 10:08:43)
 
@@ -344,4 +344,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-08 01:38:19
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-09 01:43:02
