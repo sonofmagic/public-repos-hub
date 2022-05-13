@@ -142,13 +142,13 @@
 
 ## TypeScript (25)
 
-1.  [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-05-11 13:56:22)
-
-    wxml-ast
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-10 14:56:24)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-12 23:02:41)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
+
+2.  [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-05-11 13:56:22)
+
+    wxml-ast
 
 3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-05-08 08:33:54)
 
@@ -348,4 +348,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-12 01:46:22
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-13 01:48:40
