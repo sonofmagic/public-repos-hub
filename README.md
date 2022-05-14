@@ -142,17 +142,17 @@
 
 ## TypeScript (25)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-12 23:02:41)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-05-13 14:12:57)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
 
-2.  [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-05-11 13:56:22)
-
-    wxml-ast
-
-3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-05-08 08:33:54)
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-05-13 12:34:40)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+3.  [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-05-11 13:56:22)
+
+    wxml-ast
 
 4.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-05-04 14:51:08)
 
@@ -240,7 +240,7 @@
 
 ## Vue (14)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-05-07 09:30:48)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-05-13 04:01:25)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -348,4 +348,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-13 01:48:40
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-05-14 01:54:22
