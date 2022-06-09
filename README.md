@@ -150,17 +150,17 @@
 
 ## TypeScript (27)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-06-07 06:44:41)
+1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-06-08 15:37:13)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-06-07 06:44:41)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
 
-2.  [use-decorators-to-generate-SDL](https://github.com/sonofmagic/use-decorators-to-generate-SDL) (2022-05-24 05:34:57)
+3.  [use-decorators-to-generate-SDL](https://github.com/sonofmagic/use-decorators-to-generate-SDL) (2022-05-24 05:34:57)
 
     use decorators to generate Schema Definition Language
-
-3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-05-21 08:09:34)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
 4.  [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-05-11 13:56:22)
 
@@ -364,4 +364,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-06-08 01:37:22
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-06-09 01:38:09
