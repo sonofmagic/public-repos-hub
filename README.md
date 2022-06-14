@@ -150,7 +150,7 @@
 
 ## TypeScript (28)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-06-12 09:10:51)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-06-13 02:06:20)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
 
@@ -258,7 +258,7 @@
 
 ## Vue (14)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-06-12 17:07:46)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-06-13 13:01:09)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -366,4 +366,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-06-13 01:50:44
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-06-14 01:55:03
