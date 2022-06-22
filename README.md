@@ -150,23 +150,23 @@
 
 ## TypeScript (30)
 
-1.  [utils](https://github.com/sonofmagic/utils) (2022-06-17 05:46:04)
-
-    icebreaker's utils hub
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-06-17 02:21:58)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-06-21 17:24:34)
 
     把 tailwindcss jit 引擎，带入小程序开发吧
 
-3.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2022-06-16 06:50:58)
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-06-21 09:37:25)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+3.  [utils](https://github.com/sonofmagic/utils) (2022-06-17 05:46:04)
+
+    icebreaker's utils hub
+
+4.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2022-06-16 06:50:58)
 
     tailwindcss-rem2px-preset
 
-4.  [nuxt3\_theme](https://github.com/sonofmagic/nuxt3_theme) (2022-06-10 08:53:18)
-
-5.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-06-08 15:37:13)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+5.  [nuxt3\_theme](https://github.com/sonofmagic/nuxt3_theme) (2022-06-10 08:53:18)
 
 6.  [use-decorators-to-generate-SDL](https://github.com/sonofmagic/use-decorators-to-generate-SDL) (2022-05-24 05:34:57)
 
@@ -374,4 +374,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-06-21 01:45:38
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-06-22 01:53:54
