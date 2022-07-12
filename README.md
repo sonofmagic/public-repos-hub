@@ -154,67 +154,67 @@
 
 ## TypeScript (30)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-07-10 04:06:25)
+1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-07-11 09:53:53)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-07-10 04:06:25)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-07-01 06:48:37)
+3.  [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-07-01 06:48:37)
 
     wxml-ast
 
-3.  [regexp-replace](https://github.com/sonofmagic/regexp-replace) (2022-07-01 06:48:36)
+4.  [regexp-replace](https://github.com/sonofmagic/regexp-replace) (2022-07-01 06:48:36)
 
     &#x20;base my RegExp#exec not String#replace.
 
-4.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-07-01 06:48:34)
+5.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-07-01 06:48:34)
 
     npx yangqiming
 
-5.  [use-decorators-to-generate-SDL](https://github.com/sonofmagic/use-decorators-to-generate-SDL) (2022-07-01 06:48:33)
+6.  [use-decorators-to-generate-SDL](https://github.com/sonofmagic/use-decorators-to-generate-SDL) (2022-07-01 06:48:33)
 
     use decorators to generate Schema Definition Language
 
-6.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2022-07-01 06:48:30)
+7.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2022-07-01 06:48:30)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-7.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-07-01 06:48:29)
+8.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-07-01 06:48:29)
 
     base on tailwindcss v3 , dart scss , and webpack
 
-8.  [nuxt3\_theme](https://github.com/sonofmagic/nuxt3_theme) (2022-07-01 06:48:25)
+9.  [nuxt3\_theme](https://github.com/sonofmagic/nuxt3_theme) (2022-07-01 06:48:25)
 
-9.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2022-07-01 06:48:20)
+10. [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2022-07-01 06:48:20)
 
     tailwindcss-rem2px-preset
 
-10. [utils](https://github.com/sonofmagic/utils) (2022-07-01 06:48:16)
+11. [utils](https://github.com/sonofmagic/utils) (2022-07-01 06:48:16)
 
     icebreaker's utils hub
 
-11. [mock-with-proxy](https://github.com/sonofmagic/mock-with-proxy) (2022-07-01 06:47:57)
+12. [mock-with-proxy](https://github.com/sonofmagic/mock-with-proxy) (2022-07-01 06:47:57)
 
     mock-with-proxy
 
-12. [simple-cloudbase-router](https://github.com/sonofmagic/simple-cloudbase-router) (2022-07-01 06:47:47)
+13. [simple-cloudbase-router](https://github.com/sonofmagic/simple-cloudbase-router) (2022-07-01 06:47:47)
 
     write wechat cloudbase function easily
 
-13. [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2022-07-01 06:47:47)
+14. [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2022-07-01 06:47:47)
 
     cli-file-viewer cli page pagation file
 
-14. [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2022-07-01 06:47:42)
+15. [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2022-07-01 06:47:42)
 
     Support Webpack both 4 and 5 , A loader for webpack that allows importing files as a lodash template.
 
-15. [rename-class-webpack-plugin](https://github.com/sonofmagic/rename-class-webpack-plugin) (2022-07-01 06:47:39)
+16. [rename-class-webpack-plugin](https://github.com/sonofmagic/rename-class-webpack-plugin) (2022-07-01 06:47:39)
 
     rename-class-webpack-plugin
-
-16. [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-07-01 06:47:22)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
 17. [tailwindcss-core-plugins-extractor](https://github.com/sonofmagic/tailwindcss-core-plugins-extractor) (2022-07-01 06:47:18)
 
@@ -270,19 +270,19 @@
 
 ## Vue (14)
 
-1.  [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2022-07-01 06:48:27)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-07-11 07:24:45)
 
-2.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-07-01 06:48:23)
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
+
+2.  [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2022-07-01 06:48:27)
+
+3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-07-01 06:48:23)
 
     A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
-3.  [universal-vue-library-template](https://github.com/sonofmagic/universal-vue-library-template) (2022-07-01 06:48:19)
+4.  [universal-vue-library-template](https://github.com/sonofmagic/universal-vue-library-template) (2022-07-01 06:48:19)
 
     universal-vue-library-template
-
-4.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-07-01 06:48:19)
-
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
 5.  [vue-offscreen-canvas-worker-jszip](https://github.com/sonofmagic/vue-offscreen-canvas-worker-jszip) (2022-07-01 06:47:52)
 
@@ -378,4 +378,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-07-11 01:50:26
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-07-12 01:58:08
