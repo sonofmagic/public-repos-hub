@@ -154,31 +154,31 @@
 
 ## TypeScript (30)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-07-26 08:46:11)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-07-28 00:47:30)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [vue-egg-graphql](https://github.com/sonofmagic/vue-egg-graphql) (2022-07-14 06:55:12)
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-07-27 03:00:38)
 
-3.  [call-out-my-name](https://github.com/sonofmagic/call-out-my-name) (2022-07-14 06:53:49)
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+3.  [vue-egg-graphql](https://github.com/sonofmagic/vue-egg-graphql) (2022-07-14 06:55:12)
+
+4.  [call-out-my-name](https://github.com/sonofmagic/call-out-my-name) (2022-07-14 06:53:49)
 
     call-out-my-name o(╥﹏╥)o
 
-4.  [serverless-http-proxy](https://github.com/sonofmagic/serverless-http-proxy) (2022-07-14 06:53:46)
+5.  [serverless-http-proxy](https://github.com/sonofmagic/serverless-http-proxy) (2022-07-14 06:53:46)
 
     serverless-http-proxy
 
-5.  [ts-type-challenges](https://github.com/sonofmagic/ts-type-challenges) (2022-07-14 06:53:39)
+6.  [ts-type-challenges](https://github.com/sonofmagic/ts-type-challenges) (2022-07-14 06:53:39)
 
     ts体操
 
-6.  [cloudbase-accesstoken-cache](https://github.com/sonofmagic/cloudbase-accesstoken-cache) (2022-07-14 06:53:31)
+7.  [cloudbase-accesstoken-cache](https://github.com/sonofmagic/cloudbase-accesstoken-cache) (2022-07-14 06:53:31)
 
     cloudbase-accesstoken-cache
-
-7.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-07-14 06:53:13)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
 8.  [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-07-01 06:48:37)
 
@@ -378,4 +378,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-07-27 01:57:18
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-07-28 01:50:15
