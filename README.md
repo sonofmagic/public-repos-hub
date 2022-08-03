@@ -154,7 +154,7 @@
 
 ## TypeScript (30)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-08-01 07:16:11)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-08-03 01:09:32)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
@@ -270,41 +270,41 @@
 
 ## Vue (16)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-07-31 06:07:53)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-08-02 15:38:20)
+
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
+
+2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-07-31 06:07:53)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2022-07-30 17:28:11)
+3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2022-07-30 17:28:11)
 
-3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-07-17 03:43:08)
+4.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-07-17 03:43:08)
 
     A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
-4.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-07-14 08:46:55)
+5.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-07-14 08:46:55)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
 
-5.  [dymamic-color-theme](https://github.com/sonofmagic/dymamic-color-theme) (2022-07-14 06:55:08)
+6.  [dymamic-color-theme](https://github.com/sonofmagic/dymamic-color-theme) (2022-07-14 06:55:08)
 
-6.  [react-vue-jsx-compare](https://github.com/sonofmagic/react-vue-jsx-compare) (2022-07-14 06:55:04)
+7.  [react-vue-jsx-compare](https://github.com/sonofmagic/react-vue-jsx-compare) (2022-07-14 06:55:04)
 
     react-vue-jsx-compare
 
-7.  [tencent-scf-reserved-instance-test](https://github.com/sonofmagic/tencent-scf-reserved-instance-test) (2022-07-14 06:54:06)
+8.  [tencent-scf-reserved-instance-test](https://github.com/sonofmagic/tencent-scf-reserved-instance-test) (2022-07-14 06:54:06)
 
-8.  [Jamstack-with-serverless-framework](https://github.com/sonofmagic/Jamstack-with-serverless-framework) (2022-07-14 06:54:02)
+9.  [Jamstack-with-serverless-framework](https://github.com/sonofmagic/Jamstack-with-serverless-framework) (2022-07-14 06:54:02)
 
     Serverless Framework CI/CD with Github Actions
 
-9.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2022-07-14 06:53:36)
+10. [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2022-07-14 06:53:36)
 
-10. [miniprogram-qrcode-clip](https://github.com/sonofmagic/miniprogram-qrcode-clip) (2022-07-14 06:53:35)
+11. [miniprogram-qrcode-clip](https://github.com/sonofmagic/miniprogram-qrcode-clip) (2022-07-14 06:53:35)
 
     clip miniprogram qrcode center circle area at client side to your custom image!&#x20;
-
-11. [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-07-11 07:24:45)
-
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
 12. [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2022-07-01 06:48:27)
 
@@ -324,7 +324,7 @@
 
 ## unknown (12)
 
-1.  [weapp-tailwindcss-template-hub](https://github.com/sonofmagic/weapp-tailwindcss-template-hub) (2022-08-01 14:55:52)
+1.  [weapp-tailwindcss-template-hub](https://github.com/sonofmagic/weapp-tailwindcss-template-hub) (2022-08-02 04:30:04)
 
     小程序使用 tailwindcss 的模板集合 weapp-tailwindcss-template-hub
 
@@ -388,4 +388,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-08-02 02:06:22
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-08-03 01:52:52
