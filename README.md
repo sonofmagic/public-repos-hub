@@ -154,25 +154,25 @@
 
 ## TypeScript (32)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-08-10 03:15:28)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-08-11 09:48:26)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [postcss-rpx-transform](https://github.com/sonofmagic/postcss-rpx-transform) (2022-08-08 06:40:33)
+2.  [utils](https://github.com/sonofmagic/utils) (2022-08-11 03:30:12)
+
+    icebreaker's utils hub
+
+3.  [postcss-rpx-transform](https://github.com/sonofmagic/postcss-rpx-transform) (2022-08-08 06:40:33)
 
     postcss-rpx-transform
 
-3.  [github-readme-svg](https://github.com/sonofmagic/github-readme-svg) (2022-08-07 15:33:52)
+4.  [github-readme-svg](https://github.com/sonofmagic/github-readme-svg) (2022-08-07 15:33:52)
 
     github-readme-svg serverless function
 
-4.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-08-04 06:17:42)
+5.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-08-04 06:17:42)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
-
-5.  [utils](https://github.com/sonofmagic/utils) (2022-07-29 08:26:39)
-
-    icebreaker's utils hub
 
 6.  [vue-egg-graphql](https://github.com/sonofmagic/vue-egg-graphql) (2022-07-14 06:55:12)
 
@@ -396,4 +396,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-08-11 01:43:21
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-08-12 01:47:32
