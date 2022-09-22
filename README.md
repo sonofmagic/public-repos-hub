@@ -12,7 +12,7 @@
 
 ## JavaScript (41)
 
-1.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2022-09-08 13:58:12)
+1.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2022-09-21 09:33:14)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
 
@@ -164,39 +164,39 @@
 
 ## TypeScript (33)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-09-20 10:04:56)
+1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-09-21 07:53:38)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-09-20 10:04:56)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-09-19 07:26:16)
+3.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-09-19 07:26:16)
 
     base on tailwindcss v3 , dart scss
 
-3.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-09-13 09:39:18)
+4.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-09-13 09:39:18)
 
     多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
 
-4.  [webpack-loader-test-case](https://github.com/sonofmagic/webpack-loader-test-case) (2022-08-28 16:21:00)
+5.  [webpack-loader-test-case](https://github.com/sonofmagic/webpack-loader-test-case) (2022-08-28 16:21:00)
 
-5.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2022-08-22 03:10:32)
+6.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2022-08-22 03:10:32)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-6.  [utils](https://github.com/sonofmagic/utils) (2022-08-11 03:30:12)
+7.  [utils](https://github.com/sonofmagic/utils) (2022-08-11 03:30:12)
 
     icebreaker's utils hub
 
-7.  [postcss-rpx-transform](https://github.com/sonofmagic/postcss-rpx-transform) (2022-08-08 06:40:33)
+8.  [postcss-rpx-transform](https://github.com/sonofmagic/postcss-rpx-transform) (2022-08-08 06:40:33)
 
     postcss-rpx-transform
 
-8.  [github-readme-svg](https://github.com/sonofmagic/github-readme-svg) (2022-08-07 15:33:52)
+9.  [github-readme-svg](https://github.com/sonofmagic/github-readme-svg) (2022-08-07 15:33:52)
 
     github-readme-svg serverless function
-
-9.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-08-04 06:17:42)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
 10. [vue-egg-graphql](https://github.com/sonofmagic/vue-egg-graphql) (2022-07-14 06:55:12)
 
@@ -404,4 +404,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-09-21 02:21:38
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-09-22 02:06:19
