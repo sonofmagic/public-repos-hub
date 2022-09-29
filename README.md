@@ -164,13 +164,13 @@
 
 ## TypeScript (34)
 
-1.  [next-ts-template](https://github.com/sonofmagic/next-ts-template) (2022-09-27 14:30:58)
-
-    next-ts-template
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-09-27 10:38:04)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-09-28 13:02:52)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [next-ts-template](https://github.com/sonofmagic/next-ts-template) (2022-09-27 14:30:58)
+
+    next-ts-template
 
 3.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-09-26 02:50:42)
 
@@ -408,4 +408,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-09-28 02:06:32
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-09-29 02:13:23
