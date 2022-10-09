@@ -12,31 +12,31 @@
 
 ## JavaScript (41)
 
-1.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2022-09-21 09:33:14)
+1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-10-08 04:49:16)
+
+    uni-app-vue2-tailwind-hbuilder-template&#x20;
+
+2.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2022-09-21 09:33:14)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
 
-2.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2022-08-23 10:05:55)
+3.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2022-08-23 10:05:55)
 
     taro-react-tailwind-vscode-template
 
-3.  [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2022-08-23 06:34:58)
+4.  [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2022-08-23 06:34:58)
 
-4.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-08-14 08:07:21)
+5.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-08-14 08:07:21)
 
     npm-lib-template
 
-5.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-08-10 06:06:42)
+6.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-08-10 06:06:42)
 
     uni-app-vue2-tailwind-vscode-template
 
-6.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-08-09 09:53:50)
+7.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-08-09 09:53:50)
 
     uni-app-vue3-tailwind-vscode-template
-
-7.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-08-08 06:40:52)
-
-    uni-app-vue2-tailwind-hbuilder-template&#x20;
 
 8.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2022-08-01 07:48:26)
 
@@ -408,4 +408,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-10-08 01:48:52
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-10-09 02:04:35
