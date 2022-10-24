@@ -3,7 +3,7 @@
 *   [public-repos-hub](#public-repos-hub)
     *   [JavaScript (41)](#javascript-41)
     *   [TypeScript (35)](#typescript-35)
-    *   [Vue (15)](#vue-15)
+    *   [Vue (16)](#vue-16)
     *   [unknown (12)](#unknown-12)
     *   [C# (3)](#c-3)
     *   [PHP (1)](#php-1)
@@ -296,55 +296,59 @@
 
 35. [learn-react](https://github.com/sonofmagic/learn-react) (2021-04-12 16:09:48)
 
-## Vue (15)
+## Vue (16)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-10-22 09:01:14)
+1.  [vue-dom-sheet](https://github.com/sonofmagic/vue-dom-sheet) (2022-10-24 02:05:20)
+
+    vue-dom-sheet
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-10-22 09:01:14)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2022-08-05 02:59:24)
+3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2022-08-05 02:59:24)
 
-3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-07-17 03:43:08)
+4.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-07-17 03:43:08)
 
     A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
-4.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-07-14 08:46:55)
+5.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-07-14 08:46:55)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
 
-5.  [dymamic-color-theme](https://github.com/sonofmagic/dymamic-color-theme) (2022-07-14 06:55:08)
+6.  [dymamic-color-theme](https://github.com/sonofmagic/dymamic-color-theme) (2022-07-14 06:55:08)
 
-6.  [react-vue-jsx-compare](https://github.com/sonofmagic/react-vue-jsx-compare) (2022-07-14 06:55:04)
+7.  [react-vue-jsx-compare](https://github.com/sonofmagic/react-vue-jsx-compare) (2022-07-14 06:55:04)
 
     react-vue-jsx-compare
 
-7.  [tencent-scf-reserved-instance-test](https://github.com/sonofmagic/tencent-scf-reserved-instance-test) (2022-07-14 06:54:06)
+8.  [tencent-scf-reserved-instance-test](https://github.com/sonofmagic/tencent-scf-reserved-instance-test) (2022-07-14 06:54:06)
 
-8.  [Jamstack-with-serverless-framework](https://github.com/sonofmagic/Jamstack-with-serverless-framework) (2022-07-14 06:54:02)
+9.  [Jamstack-with-serverless-framework](https://github.com/sonofmagic/Jamstack-with-serverless-framework) (2022-07-14 06:54:02)
 
     Serverless Framework CI/CD with Github Actions
 
-9.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2022-07-14 06:53:36)
+10. [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2022-07-14 06:53:36)
 
-10. [miniprogram-qrcode-clip](https://github.com/sonofmagic/miniprogram-qrcode-clip) (2022-07-14 06:53:35)
+11. [miniprogram-qrcode-clip](https://github.com/sonofmagic/miniprogram-qrcode-clip) (2022-07-14 06:53:35)
 
     clip miniprogram qrcode center circle area at client side to your custom image!&#x20;
 
-11. [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2022-07-01 06:48:27)
+12. [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2022-07-01 06:48:27)
 
-12. [universal-vue-library-template](https://github.com/sonofmagic/universal-vue-library-template) (2022-07-01 06:48:19)
+13. [universal-vue-library-template](https://github.com/sonofmagic/universal-vue-library-template) (2022-07-01 06:48:19)
 
     universal-vue-library-template
 
-13. [vue-offscreen-canvas-worker-jszip](https://github.com/sonofmagic/vue-offscreen-canvas-worker-jszip) (2022-07-01 06:47:52)
+14. [vue-offscreen-canvas-worker-jszip](https://github.com/sonofmagic/vue-offscreen-canvas-worker-jszip) (2022-07-01 06:47:52)
 
     vue-offscreen-canvas-worker-jszip
 
-14. [vnode-in-vue](https://github.com/sonofmagic/vnode-in-vue) (2022-07-01 06:47:51)
+15. [vnode-in-vue](https://github.com/sonofmagic/vnode-in-vue) (2022-07-01 06:47:51)
 
     vnode-in-vue
 
-15. [express-dynamic-middleware](https://github.com/sonofmagic/express-dynamic-middleware) (2020-12-16 05:46:56)
+16. [express-dynamic-middleware](https://github.com/sonofmagic/express-dynamic-middleware) (2020-12-16 05:46:56)
 
 ## unknown (12)
 
@@ -412,4 +416,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-10-23 02:06:52
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-10-24 02:25:43
