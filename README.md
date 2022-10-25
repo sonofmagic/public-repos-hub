@@ -164,25 +164,25 @@
 
 ## TypeScript (35)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-10-22 02:45:31)
+1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-10-24 03:28:38)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-10-22 02:45:31)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [inline-tailwindcss](https://github.com/sonofmagic/inline-tailwindcss) (2022-10-21 09:59:49)
+3.  [inline-tailwindcss](https://github.com/sonofmagic/inline-tailwindcss) (2022-10-21 09:59:49)
 
     inline-tailwindcss
 
-3.  [next-ts-template](https://github.com/sonofmagic/next-ts-template) (2022-09-27 14:30:58)
+4.  [next-ts-template](https://github.com/sonofmagic/next-ts-template) (2022-09-27 14:30:58)
 
     next-ts-template
 
-4.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-09-26 02:50:42)
+5.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-09-26 02:50:42)
 
     base on tailwindcss v3 , dart scss
-
-5.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-09-21 07:53:38)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
 6.  [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2022-09-13 09:39:18)
 
@@ -416,4 +416,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-10-24 02:25:43
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-10-25 02:19:52
