@@ -164,13 +164,13 @@
 
 ## TypeScript (35)
 
-1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-10-24 03:28:38)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-10-22 02:45:31)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-10-26 00:37:06)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-10-24 03:28:38)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
 3.  [inline-tailwindcss](https://github.com/sonofmagic/inline-tailwindcss) (2022-10-21 09:59:49)
 
@@ -416,4 +416,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-10-25 02:19:52
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-10-26 01:56:02
