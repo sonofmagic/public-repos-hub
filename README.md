@@ -168,15 +168,15 @@
 
 ## TypeScript (37)
 
-1.  [vue-dom-sheet2](https://github.com/sonofmagic/vue-dom-sheet2) (2022-10-28 15:46:22)
-
-2.  [vue-dom-sheet](https://github.com/sonofmagic/vue-dom-sheet) (2022-10-28 13:44:28)
-
-    vue-dom-sheet
-
-3.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-10-28 08:19:21)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-11-01 12:49:31)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [vue-dom-sheet2](https://github.com/sonofmagic/vue-dom-sheet2) (2022-10-28 15:46:22)
+
+3.  [vue-dom-sheet](https://github.com/sonofmagic/vue-dom-sheet) (2022-10-28 13:44:28)
+
+    vue-dom-sheet
 
 4.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-10-24 03:28:38)
 
@@ -424,4 +424,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-11-01 02:10:42
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-11-02 02:02:12
