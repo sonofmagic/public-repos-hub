@@ -168,31 +168,31 @@
 
 ## TypeScript (41)
 
-1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-11-06 12:36:36)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-11-07 04:37:35)
+
+    take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-11-06 12:36:36)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-2.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2022-11-06 12:34:24)
+3.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2022-11-06 12:34:24)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-3.  [vscode-local-bucket](https://github.com/sonofmagic/vscode-local-bucket) (2022-11-04 17:40:24)
+4.  [vscode-local-bucket](https://github.com/sonofmagic/vscode-local-bucket) (2022-11-04 17:40:24)
 
     vscode-local-bucket
 
-4.  [vue-demi-component-template](https://github.com/sonofmagic/vue-demi-component-template) (2022-11-03 15:35:52)
+5.  [vue-demi-component-template](https://github.com/sonofmagic/vue-demi-component-template) (2022-11-03 15:35:52)
 
-5.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2022-11-03 14:59:58)
+6.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2022-11-03 14:59:58)
 
     my eslint config hub
 
-6.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-11-03 14:33:14)
+7.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-11-03 14:33:14)
 
     npm-lib-template
-
-7.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-11-03 05:42:40)
-
-    take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
 8.  [vue-dom-sheet2](https://github.com/sonofmagic/vue-dom-sheet2) (2022-10-28 15:46:22)
 
@@ -444,4 +444,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-11-07 01:45:21
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-11-08 01:44:55
