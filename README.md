@@ -12,29 +12,29 @@
 
 ## JavaScript (44)
 
-1.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-11-23 12:06:42)
+1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-11-26 17:11:51)
 
-2.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-11-18 14:50:27)
+    uni-app-vue2-tailwind-hbuilder-template&#x20;
+
+2.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-11-23 12:06:42)
+
+3.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-11-18 14:50:27)
 
     uni-app-vue3-tailwind-vscode-template
 
-3.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
+4.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
 
-4.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-11-03 02:09:31)
+5.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-11-03 02:09:31)
 
     drift aimlessly through life
 
-5.  [eslint-config-](https://github.com/sonofmagic/eslint-config-) (2022-11-02 16:24:11)
+6.  [eslint-config-](https://github.com/sonofmagic/eslint-config-) (2022-11-02 16:24:11)
 
     eslint-config
 
-6.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2022-11-02 16:23:30)
+7.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2022-11-02 16:23:30)
 
     pnpm-turbo-monorepo-template
-
-7.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-10-08 04:49:16)
-
-    uni-app-vue2-tailwind-hbuilder-template&#x20;
 
 8.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2022-09-21 09:33:14)
 
@@ -442,4 +442,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-11-26 01:20:53
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-11-27 01:37:31
