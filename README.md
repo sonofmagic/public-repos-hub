@@ -12,21 +12,21 @@
 
 ## JavaScript (44)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-11-26 17:11:51)
+1.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-12-05 16:27:22)
+
+    drift aimlessly through life
+
+2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-11-26 17:11:51)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-2.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-11-23 12:06:42)
+3.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-11-23 12:06:42)
 
-3.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-11-18 14:50:27)
+4.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-11-18 14:50:27)
 
     uni-app-vue3-tailwind-vscode-template
 
-4.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
-
-5.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-11-03 02:09:31)
-
-    drift aimlessly through life
+5.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
 
 6.  [eslint-config-](https://github.com/sonofmagic/eslint-config-) (2022-11-02 16:24:11)
 
@@ -450,4 +450,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-12-05 01:17:57
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-12-06 01:17:42
