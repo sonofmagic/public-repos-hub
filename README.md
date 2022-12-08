@@ -172,25 +172,25 @@
 
 ## TypeScript (42)
 
-1.  [utils](https://github.com/sonofmagic/utils) (2022-12-06 12:34:18)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-12-07 08:44:57)
+
+    take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [utils](https://github.com/sonofmagic/utils) (2022-12-06 12:34:18)
 
     icebreaker's utils hub
 
-2.  [Compilers](https://github.com/sonofmagic/Compilers) (2022-12-04 14:37:54)
+3.  [Compilers](https://github.com/sonofmagic/Compilers) (2022-12-04 14:37:54)
 
     Compilers
 
-3.  [mrm-packages](https://github.com/sonofmagic/mrm-packages) (2022-12-01 14:04:50)
+4.  [mrm-packages](https://github.com/sonofmagic/mrm-packages) (2022-12-01 14:04:50)
 
     mrm-packages
 
-4.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-11-29 16:34:43)
+5.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-11-29 16:34:43)
 
     npx yangqiming
-
-5.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-11-29 10:04:44)
-
-    take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
 6.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2022-11-20 17:24:19)
 
@@ -330,7 +330,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-11-29 23:21:47)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-12-07 14:48:25)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -450,4 +450,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-12-07 01:21:14
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-12-08 01:19:01
