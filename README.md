@@ -12,11 +12,11 @@
 
 ## TypeScript (43)
 
-1.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-12-09 03:26:12)
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-12-07 08:44:57)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-12-11 03:43:13)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-12-09 03:26:12)
 
 3.  [utils](https://github.com/sonofmagic/utils) (2022-12-06 12:34:18)
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-12-11 01:25:18
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-12-12 01:20:36
