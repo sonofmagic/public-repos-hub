@@ -12,13 +12,13 @@
 
 ## TypeScript (43)
 
-1.  [utils](https://github.com/sonofmagic/utils) (2022-12-23 16:34:47)
-
-    icebreaker's utils hub
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-12-23 15:12:44)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2022-12-24 16:34:22)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [utils](https://github.com/sonofmagic/utils) (2022-12-23 16:34:47)
+
+    icebreaker's utils hub
 
 3.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-12-15 00:13:54)
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-12-24 01:09:13
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2022-12-25 01:18:23
