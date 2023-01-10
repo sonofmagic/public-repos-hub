@@ -12,7 +12,7 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-04 15:30:20)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-09 07:22:39)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
@@ -330,19 +330,19 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-12-28 11:28:19)
+1.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-01-09 13:35:29)
+
+    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-12-28 11:28:19)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-12-14 23:32:41)
+3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-12-14 23:32:41)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
 
-3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2022-10-28 09:58:31)
-
-4.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2022-07-17 03:43:08)
-
-    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
+4.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2022-10-28 09:58:31)
 
 5.  [dymamic-color-theme](https://github.com/sonofmagic/dymamic-color-theme) (2022-07-14 06:55:08)
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-09 01:17:17
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-10 01:20:32
