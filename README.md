@@ -12,7 +12,7 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-09 07:22:39)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-13 00:21:13)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-12 01:18:58
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-13 01:20:06
