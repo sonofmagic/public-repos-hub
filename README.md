@@ -12,21 +12,21 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-16 09:06:54)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-18 01:19:31)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [utils](https://github.com/sonofmagic/utils) (2022-12-23 16:34:47)
+2.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-01-17 01:29:05)
+
+    npm-lib-template
+
+3.  [utils](https://github.com/sonofmagic/utils) (2022-12-23 16:34:47)
 
     icebreaker's utils hub
 
-3.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-12-15 00:13:54)
+4.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-12-15 00:13:54)
 
     npx yangqiming
-
-4.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2022-12-12 09:40:21)
-
-    npm-lib-template
 
 5.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-12-09 03:26:12)
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-17 01:17:02
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-18 01:20:53
