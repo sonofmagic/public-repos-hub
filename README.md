@@ -12,39 +12,39 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-18 12:59:17)
+1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-01-19 03:04:45)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-18 12:59:17)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-01-17 01:29:05)
+3.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-01-17 01:29:05)
 
     npm-lib-template
 
-3.  [utils](https://github.com/sonofmagic/utils) (2022-12-23 16:34:47)
+4.  [utils](https://github.com/sonofmagic/utils) (2022-12-23 16:34:47)
 
     icebreaker's utils hub
 
-4.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-12-15 00:13:54)
+5.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-12-15 00:13:54)
 
     npx yangqiming
 
-5.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-12-09 03:26:12)
+6.  [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-12-09 03:26:12)
 
-6.  [Compilers](https://github.com/sonofmagic/Compilers) (2022-12-04 14:37:54)
+7.  [Compilers](https://github.com/sonofmagic/Compilers) (2022-12-04 14:37:54)
 
     Compilers
 
-7.  [mrm-packages](https://github.com/sonofmagic/mrm-packages) (2022-12-01 14:04:50)
+8.  [mrm-packages](https://github.com/sonofmagic/mrm-packages) (2022-12-01 14:04:50)
 
     mrm-packages
 
-8.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2022-11-20 17:24:19)
+9.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2022-11-20 17:24:19)
 
     tailwindcss-rem2px-preset
-
-9.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2022-11-10 01:13:18)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
 10. [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2022-11-06 12:34:24)
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-19 01:20:33
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-20 01:19:15
