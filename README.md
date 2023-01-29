@@ -12,7 +12,7 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-21 18:19:35)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-01-28 07:01:01)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
@@ -330,7 +330,7 @@
 
 ## Vue (15)
 
-1.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-01-09 13:35:29)
+1.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-01-28 14:49:20)
 
     A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-28 01:19:33
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-01-29 01:23:23
