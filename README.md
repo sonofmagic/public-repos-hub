@@ -12,7 +12,7 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-02-06 01:11:29)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-02-08 09:25:54)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
@@ -172,45 +172,45 @@
 
 ## JavaScript (43)
 
-1.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-02-08 07:36:15)
+
+    uni-app-vue2-tailwind-vscode-template
+
+2.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
 
-2.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-12-28 03:19:25)
+3.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-12-28 03:19:25)
 
     uni-app-vue3-tailwind-vscode-template
 
-3.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-12-14 23:32:41)
+4.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-12-14 23:32:41)
 
     drift aimlessly through life
 
-4.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2022-12-12 13:50:11)
+5.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2022-12-12 13:50:11)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-5.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-11-26 17:11:51)
+6.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2022-11-26 17:11:51)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-6.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
+7.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
 
-7.  [eslint-config-](https://github.com/sonofmagic/eslint-config-) (2022-11-02 16:24:11)
+8.  [eslint-config-](https://github.com/sonofmagic/eslint-config-) (2022-11-02 16:24:11)
 
     eslint-config
 
-8.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2022-11-02 16:23:30)
+9.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2022-11-02 16:23:30)
 
     pnpm-turbo-monorepo-template
 
-9.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2022-08-23 10:05:55)
+10. [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2022-08-23 10:05:55)
 
     taro-react-tailwind-vscode-template
 
-10. [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2022-08-23 06:34:58)
-
-11. [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2022-08-10 06:06:42)
-
-    uni-app-vue2-tailwind-vscode-template
+11. [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2022-08-23 06:34:58)
 
 12. [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2022-08-01 06:33:09)
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-02-08 01:20:28
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-02-09 01:19:33
