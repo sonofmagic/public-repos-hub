@@ -124,13 +124,13 @@
 
     mock-with-proxy
 
-32. [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2022-07-01 06:47:47)
-
-    cli-file-viewer cli page pagation file
-
-33. [simple-cloudbase-router](https://github.com/sonofmagic/simple-cloudbase-router) (2022-07-01 06:47:47)
+32. [simple-cloudbase-router](https://github.com/sonofmagic/simple-cloudbase-router) (2022-07-01 06:47:47)
 
     write wechat cloudbase function easily
+
+33. [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2022-07-01 06:47:47)
+
+    cli-file-viewer cli page pagation file
 
 34. [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2022-07-01 06:47:42)
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-02-16 01:22:08
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-02-17 01:23:59
