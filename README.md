@@ -12,13 +12,13 @@
 
 ## TypeScript (43)
 
-1.  [serverless-config-generator](https://github.com/sonofmagic/serverless-config-generator) (2023-02-21 22:40:47)
-
-    use js to generate serverless.yml
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-02-20 07:09:19)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-02-24 07:28:39)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [serverless-config-generator](https://github.com/sonofmagic/serverless-config-generator) (2023-02-21 22:40:47)
+
+    use js to generate serverless.yml
 
 3.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-02-05 13:23:06)
 
@@ -454,4 +454,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-02-24 01:20:44
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-02-25 01:20:41
