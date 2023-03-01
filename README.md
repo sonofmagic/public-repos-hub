@@ -174,17 +174,17 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-02-24 07:28:39)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-02-28 08:54:06)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [serverless-config-generator](https://github.com/sonofmagic/serverless-config-generator) (2023-02-21 22:40:47)
-
-    use js to generate serverless.yml
-
-3.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-02-05 13:23:06)
+2.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-02-28 02:04:26)
 
     tailwindcss-rem2px-preset
+
+3.  [serverless-config-generator](https://github.com/sonofmagic/serverless-config-generator) (2023-02-21 22:40:47)
+
+    use js to generate serverless.yml
 
 4.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-02-03 05:46:24)
 
@@ -458,4 +458,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-02-28 01:20:59
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-01 01:36:43
