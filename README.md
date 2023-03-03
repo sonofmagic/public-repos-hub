@@ -12,33 +12,33 @@
 
 ## JavaScript (44)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-02-27 09:31:03)
+1.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
+
+    使用 webpack,rollup,esbuild 来打包nodejs
+
+2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-02-27 09:31:03)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-2.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2023-02-25 18:08:57)
+3.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2023-02-25 18:08:57)
 
     taro3.6 vue3 nutui4 tailwindcss 模板
 
-3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-02-08 07:36:15)
+4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-02-08 07:36:15)
 
     uni-app-vue2-tailwind-vscode-template
 
-4.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
+5.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
 
-5.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-12-28 03:19:25)
+6.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-12-28 03:19:25)
 
     uni-app-vue3-tailwind-vscode-template
 
-6.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-12-14 23:32:41)
+7.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-12-14 23:32:41)
 
     drift aimlessly through life
-
-7.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2022-12-12 13:50:11)
-
-    使用 webpack,rollup,esbuild 来打包nodejs
 
 8.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
 
@@ -174,7 +174,7 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-01 04:59:53)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-02 05:57:20)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
@@ -458,4 +458,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-02 01:25:57
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-03 03:17:38
