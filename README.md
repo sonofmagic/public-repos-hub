@@ -12,13 +12,13 @@
 
 ## TypeScript (44)
 
-1.  [weapp-fetch](https://github.com/sonofmagic/weapp-fetch) (2023-03-06 01:34:48)
-
-    fetch lib for weapp
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-04 03:52:45)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-07 07:38:14)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [weapp-fetch](https://github.com/sonofmagic/weapp-fetch) (2023-03-06 01:34:48)
+
+    fetch lib for weapp
 
 3.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-02-28 02:04:26)
 
@@ -176,21 +176,21 @@
 
 ## JavaScript (43)
 
-1.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-03-07 02:36:48)
+
+    uni-app-vue2-tailwind-vscode-template
+
+2.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-02-27 09:31:03)
+3.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-02-27 09:31:03)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-3.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2023-02-25 18:08:57)
+4.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2023-02-25 18:08:57)
 
     taro3.6 vue3 nutui4 tailwindcss 模板
-
-4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-02-08 07:36:15)
-
-    uni-app-vue2-tailwind-vscode-template
 
 5.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
 
@@ -458,4 +458,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-07 01:36:01
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-08 01:26:01
