@@ -338,13 +338,13 @@
 
 ## Vue (15)
 
-1.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-01-28 14:49:20)
-
-    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
-
-2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2022-12-28 11:28:19)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-03-13 09:59:29)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
+
+2.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-01-28 14:49:20)
+
+    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
 3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2022-12-14 23:32:41)
 
@@ -462,4 +462,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-13 01:18:11
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-14 01:08:29
