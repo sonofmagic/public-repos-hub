@@ -338,11 +338,11 @@
 
 ## Vue (15)
 
-1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-03-14 09:08:23)
-
-2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-03-14 02:04:18)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-03-17 09:09:16)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
+
+2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-03-14 09:08:23)
 
 3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-01-28 14:49:20)
 
@@ -462,4 +462,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-17 01:17:24
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-18 01:16:35
