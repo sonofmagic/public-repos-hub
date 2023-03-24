@@ -12,17 +12,17 @@
 
 ## TypeScript (46)
 
-1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-03-22 10:43:51)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-23 08:38:02)
+
+    take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-03-22 10:43:51)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-2.  [weapp-xmlhttprequest](https://github.com/sonofmagic/weapp-xmlhttprequest) (2023-03-22 03:10:16)
+3.  [weapp-xmlhttprequest](https://github.com/sonofmagic/weapp-xmlhttprequest) (2023-03-22 03:10:16)
 
     weapp-xmlhttprequest
-
-3.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-21 07:34:40)
-
-    take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
 4.  [vue-dom-sheet2](https://github.com/sonofmagic/vue-dom-sheet2) (2023-03-20 05:27:47)
 
@@ -466,4 +466,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-23 01:13:42
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-24 01:13:28
