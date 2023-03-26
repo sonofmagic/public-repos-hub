@@ -12,7 +12,7 @@
 
 ## TypeScript (46)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-24 02:54:02)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-25 05:20:07)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
@@ -184,29 +184,29 @@
 
 ## JavaScript (43)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-03-15 10:56:40)
+1.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2023-03-25 03:02:10)
+
+    uni-app-vue3-tailwind-vscode-template
+
+2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-03-15 10:56:40)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-03-07 02:36:48)
+3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-03-07 02:36:48)
 
     uni-app-vue2-tailwind-vscode-template
 
-3.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
+4.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-4.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2023-02-25 18:08:57)
+5.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2023-02-25 18:08:57)
 
     taro3.6 vue3 nutui4 tailwindcss 模板
 
-5.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
+6.  [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
-
-6.  [uni-app-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-vscode-template) (2022-12-28 03:19:25)
-
-    uni-app-vue3-tailwind-vscode-template
 
 7.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-12-14 23:32:41)
 
@@ -466,4 +466,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-25 01:11:55
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-26 01:19:24
