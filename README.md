@@ -12,11 +12,11 @@
 
 ## TypeScript (47)
 
-1.  [apollo-graphql-prisma-template](https://github.com/sonofmagic/apollo-graphql-prisma-template) (2023-03-29 01:39:03)
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-25 05:20:07)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-03-31 00:06:44)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [apollo-graphql-prisma-template](https://github.com/sonofmagic/apollo-graphql-prisma-template) (2023-03-29 01:39:03)
 
 3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-03-22 10:43:51)
 
@@ -468,4 +468,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-30 01:16:23
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-03-31 01:15:32
