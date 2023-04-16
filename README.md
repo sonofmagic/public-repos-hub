@@ -12,17 +12,17 @@
 
 ## TypeScript (48)
 
-1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-04-13 01:15:59)
-
-    tailwindcss-mangle
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-04-12 07:57:23)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-04-15 12:35:30)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-3.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-04-06 06:17:43)
+2.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-04-15 10:08:52)
 
     tailwindcss-rem2px-preset
+
+3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-04-13 01:15:59)
+
+    tailwindcss-mangle
 
 4.  [apollo-graphql-prisma-template](https://github.com/sonofmagic/apollo-graphql-prisma-template) (2023-03-29 01:39:03)
 
@@ -468,4 +468,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-04-15 01:14:00
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-04-16 01:16:35
