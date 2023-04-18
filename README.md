@@ -190,17 +190,17 @@
 
 ## JavaScript (42)
 
-1.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-04-17 12:37:53)
+
+    uni-app-vue2-tailwind-vscode-template
+
+2.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
 
     微信小程序： 程序员名片 项目
 
-2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-03-15 10:56:40)
+3.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-03-15 10:56:40)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
-
-3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-03-07 02:36:48)
-
-    uni-app-vue2-tailwind-vscode-template
 
 4.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
 
@@ -468,4 +468,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-04-17 01:12:58
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-04-18 01:10:56
