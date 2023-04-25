@@ -12,13 +12,13 @@
 
 ## TypeScript (49)
 
-1.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-04-23 12:50:53)
-
-    A fork of graphql-depth-limit, rewrite with typescript and build into cjs and esm.
-
-2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-04-23 03:44:25)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-04-24 06:48:04)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
+
+2.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-04-23 12:50:53)
+
+    A fork of graphql-depth-limit, rewrite with typescript and build into cjs and esm.
 
 3.  [github-repository-distributor](https://github.com/sonofmagic/github-repository-distributor) (2023-04-20 06:29:53)
 
@@ -194,7 +194,7 @@
 
 ## JavaScript (42)
 
-1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-04-17 12:37:53)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-04-24 06:01:28)
 
     uni-app-vue2-tailwind-vscode-template
 
@@ -472,4 +472,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-04-24 01:14:11
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-04-25 01:13:43
