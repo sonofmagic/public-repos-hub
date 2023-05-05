@@ -194,7 +194,7 @@
 
 ## JavaScript (42)
 
-1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-04-24 06:01:28)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-05-04 02:56:20)
 
     uni-app-vue2-tailwind-vscode-template
 
@@ -476,4 +476,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-05-04 01:11:40
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-05-05 01:06:38
