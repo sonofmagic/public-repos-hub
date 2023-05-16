@@ -12,17 +12,17 @@
 
 ## TypeScript (49)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-05-14 16:55:23)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-05-15 13:30:06)
+
+    a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-05-15 02:42:45)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
-2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-05-12 17:05:06)
+3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-05-12 17:05:06)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
-
-3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-05-10 07:24:35)
-
-    a obfuscator tool for tailwindcss mangle
 
 4.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-04-23 12:50:53)
 
@@ -404,7 +404,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-05-13 16:33:16)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-05-15 06:13:22)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -482,4 +482,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-05-15 01:15:05
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-05-16 01:13:48
