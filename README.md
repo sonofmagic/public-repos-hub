@@ -13,7 +13,7 @@
 
 ## TypeScript (48)
 
-1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-05-24 07:14:34)
+1.  [weapp-tailwindcss-webpack-plugin](https://github.com/sonofmagic/weapp-tailwindcss-webpack-plugin) (2023-05-25 16:59:42)
 
     take tailwindcss jit engine to weapp ! 把 tailwindcss jit 引擎，带入小程序开发吧 !
 
@@ -191,21 +191,21 @@
 
 ## JavaScript (44)
 
-1.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-05-25 02:48:06)
+
+    uni-app-vue2-tailwind-vscode-template
+
+2.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
 
     my eslint config hub
 
-2.  [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
+3.  [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
 
     vue-d3-org-chart
 
-3.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-05-14 13:38:15)
+4.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-05-14 13:38:15)
 
     jest-esm-cjs-test-demo
-
-4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-05-04 02:56:20)
-
-    uni-app-vue2-tailwind-vscode-template
 
 5.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
 
@@ -485,4 +485,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-05-25 01:13:56
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-05-26 01:13:33
