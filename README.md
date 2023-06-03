@@ -13,7 +13,7 @@
 
 ## TypeScript (48)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-05-31 08:29:50)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-06-02 10:03:58)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -405,11 +405,11 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-05-28 12:28:29)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-06-02 14:41:44)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-05-24 07:25:34)
+2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-06-02 05:40:50)
 
     uni-app-vue3-tailwind-hbuilder-template
 
@@ -485,4 +485,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-06-02 01:26:38
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-06-03 01:25:08
