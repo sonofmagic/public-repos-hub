@@ -1,7 +1,7 @@
 # public-repos-hub
 
 *   [public-repos-hub](#public-repos-hub)
-    *   [TypeScript (49)](#typescript-49)
+    *   [TypeScript (50)](#typescript-50)
     *   [JavaScript (44)](#javascript-44)
     *   [unknown (16)](#unknown-16)
     *   [Vue (15)](#vue-15)
@@ -11,213 +11,217 @@
     *   [CSS (1)](#css-1)
     *   [C++ (1)](#c-1)
 
-## TypeScript (49)
+## TypeScript (50)
 
-1.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-06-13 06:29:58)
+1.  [loader-runner-loader](https://github.com/sonofmagic/loader-runner-loader) (2023-06-17 12:18:05)
+
+    loader-runner-loader
+
+2.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-06-13 06:29:58)
 
     npm-lib-template
 
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-06-12 08:50:20)
+3.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-06-12 08:50:20)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-06-12 05:12:03)
+4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-06-12 05:12:03)
 
     a obfuscator tool for tailwindcss mangle
 
-4.  [CSS.unescape](https://github.com/sonofmagic/CSS.unescape) (2023-06-10 18:48:42)
+5.  [CSS.unescape](https://github.com/sonofmagic/CSS.unescape) (2023-06-10 18:48:42)
 
     CSS.unescape
 
-5.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-05-16 12:00:11)
+6.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-05-16 12:00:11)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-6.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-05-12 17:05:06)
+7.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-05-12 17:05:06)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-7.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-04-23 12:50:53)
+8.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-04-23 12:50:53)
 
     A fork of graphql-depth-limit, rewrite with typescript and build into cjs and esm.
 
-8.  [github-repository-distributor](https://github.com/sonofmagic/github-repository-distributor) (2023-04-20 06:29:53)
+9.  [github-repository-distributor](https://github.com/sonofmagic/github-repository-distributor) (2023-04-20 06:29:53)
 
     group-your-github-repository
 
-9.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-04-15 10:08:52)
+10. [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-04-15 10:08:52)
 
     tailwindcss-rem2px-preset
 
-10. [apollo-graphql-prisma-template](https://github.com/sonofmagic/apollo-graphql-prisma-template) (2023-03-29 01:39:03)
+11. [apollo-graphql-prisma-template](https://github.com/sonofmagic/apollo-graphql-prisma-template) (2023-03-29 01:39:03)
 
-11. [weapp-xmlhttprequest](https://github.com/sonofmagic/weapp-xmlhttprequest) (2023-03-22 03:10:16)
+12. [weapp-xmlhttprequest](https://github.com/sonofmagic/weapp-xmlhttprequest) (2023-03-22 03:10:16)
 
     weapp-xmlhttprequest
 
-12. [vue-dom-sheet2](https://github.com/sonofmagic/vue-dom-sheet2) (2023-03-20 05:27:47)
+13. [vue-dom-sheet2](https://github.com/sonofmagic/vue-dom-sheet2) (2023-03-20 05:27:47)
 
-13. [weapp-websocket](https://github.com/sonofmagic/weapp-websocket) (2023-03-15 12:13:55)
+14. [weapp-websocket](https://github.com/sonofmagic/weapp-websocket) (2023-03-15 12:13:55)
 
     new Websocket(url,protocols) in weapp
 
-14. [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2023-03-14 05:05:21)
+15. [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2023-03-14 05:05:21)
 
     多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
 
-15. [weapp-fetch](https://github.com/sonofmagic/weapp-fetch) (2023-03-06 01:34:48)
+16. [weapp-fetch](https://github.com/sonofmagic/weapp-fetch) (2023-03-06 01:34:48)
 
     fetch lib for weapp
 
-16. [serverless-config-generator](https://github.com/sonofmagic/serverless-config-generator) (2023-02-21 22:40:47)
+17. [serverless-config-generator](https://github.com/sonofmagic/serverless-config-generator) (2023-02-21 22:40:47)
 
     use js to generate serverless.yml
 
-17. [utils](https://github.com/sonofmagic/utils) (2022-12-23 16:34:47)
+18. [utils](https://github.com/sonofmagic/utils) (2022-12-23 16:34:47)
 
     icebreaker's utils hub
 
-18. [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-12-15 00:13:54)
+19. [yangqiming](https://github.com/sonofmagic/yangqiming) (2022-12-15 00:13:54)
 
     npx yangqiming
 
-19. [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-12-09 03:26:12)
+20. [taro-test3.3.10](https://github.com/sonofmagic/taro-test3.3.10) (2022-12-09 03:26:12)
 
-20. [Compilers](https://github.com/sonofmagic/Compilers) (2022-12-04 14:37:54)
+21. [Compilers](https://github.com/sonofmagic/Compilers) (2022-12-04 14:37:54)
 
     Compilers
 
-21. [mrm-packages](https://github.com/sonofmagic/mrm-packages) (2022-12-01 14:04:50)
+22. [mrm-packages](https://github.com/sonofmagic/mrm-packages) (2022-12-01 14:04:50)
 
     mrm-packages
 
-22. [vscode-local-bucket](https://github.com/sonofmagic/vscode-local-bucket) (2022-11-04 17:40:24)
+23. [vscode-local-bucket](https://github.com/sonofmagic/vscode-local-bucket) (2022-11-04 17:40:24)
 
     vscode-local-bucket
 
-23. [vue-demi-component-template](https://github.com/sonofmagic/vue-demi-component-template) (2022-11-03 15:35:52)
+24. [vue-demi-component-template](https://github.com/sonofmagic/vue-demi-component-template) (2022-11-03 15:35:52)
 
-24. [inline-tailwindcss](https://github.com/sonofmagic/inline-tailwindcss) (2022-10-21 09:59:49)
+25. [inline-tailwindcss](https://github.com/sonofmagic/inline-tailwindcss) (2022-10-21 09:59:49)
 
     inline-tailwindcss
 
-25. [next-ts-template](https://github.com/sonofmagic/next-ts-template) (2022-09-27 14:30:58)
+26. [next-ts-template](https://github.com/sonofmagic/next-ts-template) (2022-09-27 14:30:58)
 
     next-ts-template
 
-26. [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-09-26 02:50:42)
+27. [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2022-09-26 02:50:42)
 
     base on tailwindcss v3 , dart scss
 
-27. [webpack-loader-test-case](https://github.com/sonofmagic/webpack-loader-test-case) (2022-08-28 16:21:00)
+28. [webpack-loader-test-case](https://github.com/sonofmagic/webpack-loader-test-case) (2022-08-28 16:21:00)
 
-28. [postcss-rpx-transform](https://github.com/sonofmagic/postcss-rpx-transform) (2022-08-08 06:40:33)
+29. [postcss-rpx-transform](https://github.com/sonofmagic/postcss-rpx-transform) (2022-08-08 06:40:33)
 
     postcss-rpx-transform
 
-29. [github-readme-svg](https://github.com/sonofmagic/github-readme-svg) (2022-08-07 15:33:52)
+30. [github-readme-svg](https://github.com/sonofmagic/github-readme-svg) (2022-08-07 15:33:52)
 
     github-readme-svg serverless function
 
-30. [vue-egg-graphql](https://github.com/sonofmagic/vue-egg-graphql) (2022-07-14 06:55:12)
+31. [vue-egg-graphql](https://github.com/sonofmagic/vue-egg-graphql) (2022-07-14 06:55:12)
 
-31. [call-out-my-name](https://github.com/sonofmagic/call-out-my-name) (2022-07-14 06:53:49)
+32. [call-out-my-name](https://github.com/sonofmagic/call-out-my-name) (2022-07-14 06:53:49)
 
     call-out-my-name o(╥﹏╥)o
 
-32. [serverless-http-proxy](https://github.com/sonofmagic/serverless-http-proxy) (2022-07-14 06:53:46)
+33. [serverless-http-proxy](https://github.com/sonofmagic/serverless-http-proxy) (2022-07-14 06:53:46)
 
     serverless-http-proxy
 
-33. [ts-type-challenges](https://github.com/sonofmagic/ts-type-challenges) (2022-07-14 06:53:39)
+34. [ts-type-challenges](https://github.com/sonofmagic/ts-type-challenges) (2022-07-14 06:53:39)
 
     ts体操
 
-34. [cloudbase-accesstoken-cache](https://github.com/sonofmagic/cloudbase-accesstoken-cache) (2022-07-14 06:53:31)
+35. [cloudbase-accesstoken-cache](https://github.com/sonofmagic/cloudbase-accesstoken-cache) (2022-07-14 06:53:31)
 
     cloudbase-accesstoken-cache
 
-35. [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-07-01 06:48:37)
+36. [wxml-ast](https://github.com/sonofmagic/wxml-ast) (2022-07-01 06:48:37)
 
     wxml-ast
 
-36. [regexp-replace](https://github.com/sonofmagic/regexp-replace) (2022-07-01 06:48:36)
+37. [regexp-replace](https://github.com/sonofmagic/regexp-replace) (2022-07-01 06:48:36)
 
     &#x20;base my RegExp#exec not String#replace.
 
-37. [use-decorators-to-generate-SDL](https://github.com/sonofmagic/use-decorators-to-generate-SDL) (2022-07-01 06:48:33)
+38. [use-decorators-to-generate-SDL](https://github.com/sonofmagic/use-decorators-to-generate-SDL) (2022-07-01 06:48:33)
 
     use decorators to generate Schema Definition Language
 
-38. [nuxt3\_theme](https://github.com/sonofmagic/nuxt3_theme) (2022-07-01 06:48:25)
+39. [nuxt3\_theme](https://github.com/sonofmagic/nuxt3_theme) (2022-07-01 06:48:25)
 
-39. [mock-with-proxy](https://github.com/sonofmagic/mock-with-proxy) (2022-07-01 06:47:57)
+40. [mock-with-proxy](https://github.com/sonofmagic/mock-with-proxy) (2022-07-01 06:47:57)
 
     mock-with-proxy
 
-40. [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2022-07-01 06:47:47)
+41. [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2022-07-01 06:47:47)
 
     cli-file-viewer cli page pagation file
 
-41. [simple-cloudbase-router](https://github.com/sonofmagic/simple-cloudbase-router) (2022-07-01 06:47:47)
+42. [simple-cloudbase-router](https://github.com/sonofmagic/simple-cloudbase-router) (2022-07-01 06:47:47)
 
     write wechat cloudbase function easily
 
-42. [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2022-07-01 06:47:42)
+43. [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2022-07-01 06:47:42)
 
     Support Webpack both 4 and 5 , A loader for webpack that allows importing files as a lodash template.
 
-43. [rename-class-webpack-plugin](https://github.com/sonofmagic/rename-class-webpack-plugin) (2022-07-01 06:47:39)
+44. [rename-class-webpack-plugin](https://github.com/sonofmagic/rename-class-webpack-plugin) (2022-07-01 06:47:39)
 
     rename-class-webpack-plugin
 
-44. [tailwindcss-core-plugins-extractor](https://github.com/sonofmagic/tailwindcss-core-plugins-extractor) (2022-07-01 06:47:18)
+45. [tailwindcss-core-plugins-extractor](https://github.com/sonofmagic/tailwindcss-core-plugins-extractor) (2022-07-01 06:47:18)
 
     tailwindcss-corePlugins-extractor
 
-45. [dom-styler](https://github.com/sonofmagic/dom-styler) (2022-07-01 06:47:09)
+46. [dom-styler](https://github.com/sonofmagic/dom-styler) (2022-07-01 06:47:09)
 
     dom-styler
 
-46. [md2cwm](https://github.com/sonofmagic/md2cwm) (2022-07-01 06:47:08)
+47. [md2cwm](https://github.com/sonofmagic/md2cwm) (2022-07-01 06:47:08)
 
     markdown 2 confluence better
 
-47. [hfut-helper](https://github.com/sonofmagic/hfut-helper) (2022-07-01 06:46:59)
+48. [hfut-helper](https://github.com/sonofmagic/hfut-helper) (2022-07-01 06:46:59)
 
     合肥工业大学小助手
 
-48. [simple-cloudbase](https://github.com/sonofmagic/simple-cloudbase) (2022-07-01 06:46:55)
+49. [simple-cloudbase](https://github.com/sonofmagic/simple-cloudbase) (2022-07-01 06:46:55)
 
     simple-cloudbase ，给小程序云开发带来现代化的工程能力
 
-49. [learn-react](https://github.com/sonofmagic/learn-react) (2021-04-12 16:09:48)
+50. [learn-react](https://github.com/sonofmagic/learn-react) (2021-04-12 16:09:48)
 
 ## JavaScript (44)
 
-1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-05-25 02:48:06)
+1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-06-17 11:18:45)
+
+    uni-app-vue2-tailwind-hbuilder-template&#x20;
+
+2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-05-25 02:48:06)
 
     uni-app-vue2-tailwind-vscode-template
 
-2.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
+3.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
 
     my eslint config hub
 
-3.  [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
+4.  [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
 
     vue-d3-org-chart
 
-4.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-05-14 13:38:15)
+5.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-05-14 13:38:15)
 
     jest-esm-cjs-test-demo
 
-5.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
+6.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
 
     微信小程序： 程序员名片 项目
-
-6.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-03-15 10:56:40)
-
-    uni-app-vue2-tailwind-hbuilder-template&#x20;
 
 7.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
 
@@ -409,13 +413,13 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-06-16 13:39:20)
-
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
-
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-06-07 16:32:32)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-06-17 11:21:01)
 
     uni-app-vue3-tailwind-hbuilder-template
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-06-16 13:39:20)
+
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
 3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2023-06-06 16:05:02)
 
@@ -489,4 +493,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-06-17 01:17:15
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-06-18 01:40:29
