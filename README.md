@@ -13,17 +13,17 @@
 
 ## TypeScript (50)
 
-1.  [loader-runner-loader](https://github.com/sonofmagic/loader-runner-loader) (2023-06-17 12:18:05)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-06-25 14:21:25)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [loader-runner-loader](https://github.com/sonofmagic/loader-runner-loader) (2023-06-17 12:18:05)
 
     loader-runner-loader
 
-2.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-06-13 06:29:58)
+3.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-06-13 06:29:58)
 
     npm-lib-template
-
-3.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-06-12 08:50:20)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
 4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-06-12 05:12:03)
 
@@ -413,7 +413,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-06-24 08:50:51)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-06-25 13:39:35)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -493,4 +493,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-06-25 01:48:54
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-06-26 01:42:27
