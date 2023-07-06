@@ -13,25 +13,25 @@
 
 ## TypeScript (50)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-03 09:46:32)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-05 08:53:45)
+
+    a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-05 03:15:46)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2023-06-29 18:48:46)
+3.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2023-06-29 18:48:46)
 
     base on tailwindcss v3 , dart scss
 
-3.  [loader-runner-loader](https://github.com/sonofmagic/loader-runner-loader) (2023-06-17 12:18:05)
+4.  [loader-runner-loader](https://github.com/sonofmagic/loader-runner-loader) (2023-06-17 12:18:05)
 
     loader-runner-loader
 
-4.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-06-13 06:29:58)
+5.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-06-13 06:29:58)
 
     npm-lib-template
-
-5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-06-12 05:12:03)
-
-    a obfuscator tool for tailwindcss mangle
 
 6.  [CSS.unescape](https://github.com/sonofmagic/CSS.unescape) (2023-06-10 18:48:42)
 
@@ -199,11 +199,11 @@
 
 ## JavaScript (44)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-06-17 11:18:45)
+1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-07-05 05:44:13)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-05-25 02:48:06)
+2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-07-05 03:49:30)
 
     uni-app-vue2-tailwind-vscode-template
 
@@ -413,11 +413,11 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-06-25 13:39:35)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-05 03:14:13)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-06-17 11:21:01)
+2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-05 02:49:06)
 
     uni-app-vue3-tailwind-hbuilder-template
 
@@ -493,4 +493,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-05 01:38:07
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-06 01:40:53
