@@ -13,13 +13,13 @@
 
 ## TypeScript (50)
 
-1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-05 08:53:45)
-
-    a obfuscator tool for tailwindcss mangle
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-05 03:15:46)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-06 02:37:52)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-05 08:53:45)
+
+    a obfuscator tool for tailwindcss mangle
 
 3.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2023-06-29 18:48:46)
 
@@ -199,7 +199,7 @@
 
 ## JavaScript (44)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-07-05 05:44:13)
+1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-07-06 09:35:37)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
@@ -493,4 +493,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-06 01:40:53
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-07 01:39:36
