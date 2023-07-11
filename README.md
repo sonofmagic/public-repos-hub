@@ -13,13 +13,13 @@
 
 ## TypeScript (51)
 
-1.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
-
-    weapp-navigate
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-08 14:27:00)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-10 02:42:20)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
+
+    weapp-navigate
 
 3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-07 11:09:05)
 
@@ -497,4 +497,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-10 01:39:26
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-11 01:23:57
