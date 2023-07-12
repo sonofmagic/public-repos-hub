@@ -13,17 +13,17 @@
 
 ## TypeScript (51)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-10 02:42:20)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-11 18:19:58)
+
+    a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-11 03:27:47)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
+3.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
 
     weapp-navigate
-
-3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-07 11:09:05)
-
-    a obfuscator tool for tailwindcss mangle
 
 4.  [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2023-06-29 18:48:46)
 
@@ -417,7 +417,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-05 03:14:13)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-12 01:30:12)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -497,4 +497,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-11 01:23:57
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-12 01:39:34
