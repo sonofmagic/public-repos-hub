@@ -13,13 +13,13 @@
 
 ## TypeScript (51)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-15 13:53:11)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
-
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-11 18:19:58)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-17 06:46:27)
 
     a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-17 06:35:30)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
 3.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
 
@@ -421,23 +421,23 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-14 14:01:28)
-
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
-
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-05 02:49:06)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-17 14:52:25)
 
     uni-app-vue3-tailwind-hbuilder-template
 
-3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2023-06-06 16:05:02)
+2.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-07-17 06:41:26)
+
+    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
+
+3.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-14 14:01:28)
+
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
+
+4.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2023-06-06 16:05:02)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
 
-4.  [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2023-03-29 06:36:15)
-
-5.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-01-28 14:49:20)
-
-    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
+5.  [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2023-03-29 06:36:15)
 
 6.  [dymamic-color-theme](https://github.com/sonofmagic/dymamic-color-theme) (2022-07-14 06:55:08)
 
@@ -501,4 +501,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-17 01:44:16
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-18 01:51:30
