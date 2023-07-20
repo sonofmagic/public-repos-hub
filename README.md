@@ -421,7 +421,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-17 14:52:25)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-19 10:03:54)
 
     uni-app-vue3-tailwind-hbuilder-template
 
@@ -501,4 +501,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-19 02:40:05
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-20 01:17:02
