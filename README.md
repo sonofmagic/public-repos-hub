@@ -13,13 +13,13 @@
 
 ## TypeScript (51)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-21 19:28:43)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
-
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-17 06:46:27)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-23 11:55:59)
 
     a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-23 04:40:21)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
 3.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
 
@@ -421,17 +421,17 @@
 
 ## Vue (15)
 
-1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-19 10:03:54)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-23 14:20:45)
 
-    uni-app-vue3-tailwind-hbuilder-template
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-07-17 06:41:26)
+2.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-07-23 11:33:11)
 
     A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
-3.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-14 14:01:28)
+3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-19 10:03:54)
 
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
+    uni-app-vue3-tailwind-hbuilder-template
 
 4.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2023-06-06 16:05:02)
 
@@ -501,4 +501,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-23 01:22:27
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-24 01:17:54
