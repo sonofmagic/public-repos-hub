@@ -13,7 +13,7 @@
 
 ## TypeScript (51)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-24 13:42:27)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-25 11:08:47)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -421,17 +421,17 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-24 04:04:32)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-25 02:05:14)
+
+    uni-app-vue3-tailwind-hbuilder-template
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-24 04:04:32)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-07-23 11:33:11)
+3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-07-23 11:33:11)
 
     A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
-
-3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-19 10:03:54)
-
-    uni-app-vue3-tailwind-hbuilder-template
 
 4.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2023-06-06 16:05:02)
 
@@ -501,4 +501,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-25 01:23:57
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-26 01:18:24
