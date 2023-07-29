@@ -13,21 +13,21 @@
 
 ## TypeScript (54)
 
-1.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-07-27 15:57:33)
+1.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-07-28 15:34:15)
 
-    To use pandacss in weapp! (WIP)
+    To use pandacss in weapp!&#x20;
 
-2.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2023-07-27 09:59:11)
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-28 07:49:30)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+3.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2023-07-27 09:59:11)
 
     pnpm-turbo-monorepo-template
 
-3.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-07-27 09:58:51)
+4.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-07-27 09:58:51)
 
     weapp-core utils
-
-4.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-27 08:06:11)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
 5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-23 11:55:59)
 
@@ -429,7 +429,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-27 11:05:27)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-28 08:11:37)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -509,4 +509,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-28 01:10:26
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-29 01:10:52
