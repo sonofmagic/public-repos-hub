@@ -13,11 +13,11 @@
 
 ## TypeScript (55)
 
-1.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-07-29 16:23:10)
-
-2.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-07-29 05:41:05)
+1.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-07-31 06:29:13)
 
     To use pandacss in weapp!&#x20;
+
+2.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-07-29 16:23:10)
 
 3.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-28 07:49:30)
 
@@ -511,4 +511,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-07-31 01:13:57
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-01 01:19:10
