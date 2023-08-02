@@ -13,27 +13,27 @@
 
 ## TypeScript (55)
 
-1.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-07-31 06:29:13)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-01 11:35:32)
+
+    a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-07-31 06:29:13)
 
     To use pandacss in weapp!&#x20;
 
-2.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-07-29 16:23:10)
+3.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-07-29 16:23:10)
 
-3.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-28 07:49:30)
+4.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-07-28 07:49:30)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-4.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2023-07-27 09:59:11)
+5.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2023-07-27 09:59:11)
 
     pnpm-turbo-monorepo-template
 
-5.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-07-27 09:58:51)
+6.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-07-27 09:58:51)
 
     weapp-core utils
-
-6.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-07-23 11:55:59)
-
-    a obfuscator tool for tailwindcss mangle
 
 7.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
 
@@ -431,13 +431,13 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-28 08:11:37)
-
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
-
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-07-25 02:05:14)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-08-01 03:32:59)
 
     uni-app-vue3-tailwind-hbuilder-template
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-07-28 08:11:37)
+
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
 3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-07-23 11:33:11)
 
@@ -511,4 +511,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-01 01:19:10
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-02 01:09:32
