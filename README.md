@@ -13,19 +13,19 @@
 
 ## TypeScript (55)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-02 08:40:28)
+1.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-03 03:31:23)
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-02 08:40:28)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-02 03:08:58)
+3.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-02 03:08:58)
 
     To use pandacss in weapp!&#x20;
 
-3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-01 11:35:32)
+4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-01 11:35:32)
 
     a obfuscator tool for tailwindcss mangle
-
-4.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-07-29 16:23:10)
 
 5.  [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2023-07-27 09:59:11)
 
@@ -511,4 +511,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-03 01:11:29
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-04 01:13:14
