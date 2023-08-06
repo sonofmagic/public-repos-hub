@@ -13,23 +13,23 @@
 
 ## TypeScript (56)
 
-1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-04 23:16:52)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-05 04:46:54)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-04 23:16:52)
 
     a obfuscator tool for tailwindcss mangle
 
-2.  [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-04 15:16:32)
+3.  [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-04 15:16:32)
 
     node-ip2region
 
-3.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2023-08-04 07:50:21)
+4.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2023-08-04 07:50:21)
 
     npx yangqiming@latest
 
-4.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-03 03:31:23)
-
-5.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-02 08:40:28)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+5.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-03 03:31:23)
 
 6.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-02 03:08:58)
 
@@ -435,7 +435,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-08-01 03:32:59)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-08-05 04:21:36)
 
     uni-app-vue3-tailwind-hbuilder-template
 
@@ -515,4 +515,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-05 01:09:43
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-06 01:06:15
