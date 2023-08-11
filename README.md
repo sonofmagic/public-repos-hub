@@ -13,63 +13,63 @@
 
 ## TypeScript (56)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-09 09:05:33)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
-
-2.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-08-08 02:10:24)
-
-    Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
-
-3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-08 02:09:45)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
-
-4.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-08-08 01:00:27)
-
-    tailwindcss-rem2px-preset
-
-5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-04 23:16:52)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-10 20:22:14)
 
     a obfuscator tool for tailwindcss mangle
 
-6.  [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-04 15:16:32)
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-10 12:43:56)
 
-    node-ip2region
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-7.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2023-08-04 07:50:21)
-
-    npx yangqiming@latest
-
-8.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-03 03:31:23)
-
-9.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-02 03:08:58)
-
-    To use pandacss in weapp!&#x20;
-
-10. [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2023-07-27 09:59:11)
-
-    pnpm-turbo-monorepo-template
-
-11. [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-07-27 09:58:51)
+3.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-08-10 12:43:46)
 
     weapp-core utils
 
-12. [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
+4.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-08-10 01:29:46)
+
+    npm-lib-template
+
+5.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-08-08 02:10:24)
+
+    Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
+
+6.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-08 02:09:45)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+7.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-08-08 01:00:27)
+
+    tailwindcss-rem2px-preset
+
+8.  [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-04 15:16:32)
+
+    node-ip2region
+
+9.  [yangqiming](https://github.com/sonofmagic/yangqiming) (2023-08-04 07:50:21)
+
+    npx yangqiming@latest
+
+10. [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-03 03:31:23)
+
+11. [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-02 03:08:58)
+
+    To use pandacss in weapp!&#x20;
+
+12. [pnpm-turbo-monorepo-template](https://github.com/sonofmagic/pnpm-turbo-monorepo-template) (2023-07-27 09:59:11)
+
+    pnpm-turbo-monorepo-template
+
+13. [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2023-07-08 16:14:52)
 
     weapp-navigate
 
-13. [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2023-06-29 18:48:46)
+14. [tailwind-css-variables-theme-generator](https://github.com/sonofmagic/tailwind-css-variables-theme-generator) (2023-06-29 18:48:46)
 
     base on tailwindcss v3 , dart scss
 
-14. [loader-runner-loader](https://github.com/sonofmagic/loader-runner-loader) (2023-06-17 12:18:05)
+15. [loader-runner-loader](https://github.com/sonofmagic/loader-runner-loader) (2023-06-17 12:18:05)
 
     loader-runner-loader
-
-15. [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-06-13 06:29:58)
-
-    npm-lib-template
 
 16. [CSS.unescape](https://github.com/sonofmagic/CSS.unescape) (2023-06-10 18:48:42)
 
@@ -435,13 +435,13 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-08-09 08:28:00)
-
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
-
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-08-05 04:21:36)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-08-10 12:44:36)
 
     uni-app-vue3-tailwind-hbuilder-template
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-08-10 03:58:33)
+
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
 3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-07-23 11:33:11)
 
@@ -515,4 +515,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-10 01:13:47
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-11 00:58:53
