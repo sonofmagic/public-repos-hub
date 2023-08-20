@@ -13,13 +13,13 @@
 
 ## TypeScript (59)
 
-1.  [weapp-iconfont](https://github.com/sonofmagic/weapp-iconfont) (2023-08-18 16:22:12)
-
-    weapp-iconfont
-
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-18 15:08:30)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-19 01:33:41)
 
     a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-iconfont](https://github.com/sonofmagic/weapp-iconfont) (2023-08-18 16:22:12)
+
+    weapp-iconfont
 
 3.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-18 13:18:57)
 
@@ -527,4 +527,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-19 00:57:23
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-20 01:02:05
