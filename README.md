@@ -13,49 +13,49 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-21 08:13:34)
+1.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-22 11:13:18)
+
+    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-22 09:24:53)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-19 01:33:41)
+3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-19 01:33:41)
 
     a obfuscator tool for tailwindcss mangle
 
-3.  [weapp-iconfont](https://github.com/sonofmagic/weapp-iconfont) (2023-08-18 16:22:12)
+4.  [weapp-iconfont](https://github.com/sonofmagic/weapp-iconfont) (2023-08-18 16:22:12)
 
     weapp-iconfont
 
-4.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-18 13:18:57)
+5.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-18 13:18:57)
 
     To use pandacss in weapp!&#x20;
 
-5.  [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2023-08-16 12:10:06)
+6.  [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2023-08-16 12:10:06)
 
     cli-file-viewer cli page pagation file
 
-6.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-08-15 02:19:58)
+7.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-08-15 02:19:58)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-7.  [modern-ahocorasick](https://github.com/sonofmagic/modern-ahocorasick) (2023-08-11 06:07:01)
+8.  [modern-ahocorasick](https://github.com/sonofmagic/modern-ahocorasick) (2023-08-11 06:07:01)
 
     modern-ahocorasick
 
-8.  [ast-core](https://github.com/sonofmagic/ast-core) (2023-08-11 01:57:44)
+9.  [ast-core](https://github.com/sonofmagic/ast-core) (2023-08-11 01:57:44)
 
     ast-core
 
-9.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-08-10 12:43:46)
+10. [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-08-10 12:43:46)
 
     weapp-core utils
 
-10. [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-08-10 01:29:46)
+11. [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-08-10 01:29:46)
 
     npm-lib-template
-
-11. [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-08 02:09:45)
-
-    tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
 12. [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-08-08 01:00:27)
 
@@ -527,4 +527,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-22 01:00:13
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-23 00:59:30
