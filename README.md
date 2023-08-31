@@ -13,27 +13,27 @@
 
 ## TypeScript (59)
 
-1.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-29 20:27:23)
+1.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-30 13:09:37)
 
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-29 11:03:40)
+    To use pandacss in weapp!&#x20;
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-08-30 07:12:15)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-25 18:40:26)
+3.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-29 20:27:23)
+
+4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-25 18:40:26)
 
     a obfuscator tool for tailwindcss mangle
 
-4.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-22 11:13:18)
+5.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-22 11:13:18)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-5.  [weapp-iconfont](https://github.com/sonofmagic/weapp-iconfont) (2023-08-18 16:22:12)
+6.  [weapp-iconfont](https://github.com/sonofmagic/weapp-iconfont) (2023-08-18 16:22:12)
 
     weapp-iconfont
-
-6.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-08-18 13:18:57)
-
-    To use pandacss in weapp!&#x20;
 
 7.  [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2023-08-16 12:10:06)
 
@@ -233,49 +233,49 @@
 
 ## JavaScript (44)
 
-1.  [ice-ui](https://github.com/sonofmagic/ice-ui) (2023-08-18 16:22:54)
-
-    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
-
-2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-07-22 07:57:28)
+1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-08-30 03:39:36)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-07-05 03:49:30)
+2.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-08-30 03:39:35)
+
+    drift aimlessly through life
+
+3.  [ice-ui](https://github.com/sonofmagic/ice-ui) (2023-08-18 16:22:54)
+
+    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
+
+4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-07-05 03:49:30)
 
     uni-app-vue2-tailwind-vscode-template
 
-4.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
+5.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
 
     my eslint config hub
 
-5.  [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
+6.  [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
 
     vue-d3-org-chart
 
-6.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-05-14 13:38:15)
+7.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-05-14 13:38:15)
 
     jest-esm-cjs-test-demo
 
-7.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
+8.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
 
     微信小程序： 程序员名片 项目
 
-8.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
+9.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-9.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2023-02-25 18:08:57)
+10. [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2023-02-25 18:08:57)
 
     taro3.6 vue3 nutui4 tailwindcss 模板
 
-10. [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
+11. [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
-
-11. [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2022-12-14 23:32:41)
-
-    drift aimlessly through life
 
 12. [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
 
@@ -527,4 +527,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-30 01:00:42
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-08-31 01:01:02
