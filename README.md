@@ -241,17 +241,17 @@
 
 ## JavaScript (43)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-08-30 03:39:36)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-09-02 08:09:17)
+
+    uni-app-vue2-tailwind-vscode-template
+
+2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-08-30 03:39:36)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-2.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-08-30 03:39:35)
+3.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-08-30 03:39:35)
 
     drift aimlessly through life
-
-3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-07-05 03:49:30)
-
-    uni-app-vue2-tailwind-vscode-template
 
 4.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
 
@@ -531,4 +531,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-02 00:58:44
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-03 01:04:03
