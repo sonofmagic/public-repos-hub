@@ -13,7 +13,7 @@
 
 ## TypeScript (61)
 
-1.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-01 09:23:44)
+1.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-05 08:46:58)
 
     serverless-aws-cn-guide
 
@@ -447,7 +447,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-08-29 18:19:45)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-09-05 03:25:24)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -527,4 +527,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-05 01:00:00
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-06 01:01:08
