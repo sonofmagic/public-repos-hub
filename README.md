@@ -2,7 +2,7 @@
 
 *   [public-repos-hub](#public-repos-hub)
     *   [TypeScript (61)](#typescript-61)
-    *   [JavaScript (42)](#javascript-42)
+    *   [JavaScript (43)](#javascript-43)
     *   [unknown (17)](#unknown-17)
     *   [Vue (15)](#vue-15)
     *   [C# (2)](#c-2)
@@ -13,13 +13,13 @@
 
 ## TypeScript (61)
 
-1.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-09-07 15:28:26)
-
-    To use pandacss in weapp!&#x20;
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-09-07 15:19:16)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-09-08 07:58:03)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-09-07 15:28:26)
+
+    To use pandacss in weapp!&#x20;
 
 3.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-05 08:46:58)
 
@@ -239,159 +239,161 @@
 
 61. [learn-react](https://github.com/sonofmagic/learn-react) (2021-04-12 16:09:48)
 
-## JavaScript (42)
+## JavaScript (43)
 
-1.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-09-04 16:18:37)
+1.  [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-09-08 09:54:51)
+
+2.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-09-04 16:18:37)
 
     taro-react-tailwind-vscode-template
 
-2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-09-02 08:09:17)
+3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-09-02 08:09:17)
 
     uni-app-vue2-tailwind-vscode-template
 
-3.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-08-30 03:39:36)
+4.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-08-30 03:39:36)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-4.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-08-30 03:39:35)
+5.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-08-30 03:39:35)
 
     drift aimlessly through life
 
-5.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
+6.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-05-22 00:55:01)
 
     my eslint config hub
 
-6.  [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
+7.  [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
 
     vue-d3-org-chart
 
-7.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-05-14 13:38:15)
+8.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-05-14 13:38:15)
 
     jest-esm-cjs-test-demo
 
-8.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
+9.  [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
 
     微信小程序： 程序员名片 项目
 
-9.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
+10. [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-03-02 07:13:17)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-10. [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
+11. [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-02-05 13:22:09)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
 
-11. [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
+12. [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2022-11-09 13:51:44)
 
-12. [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2022-08-23 06:34:58)
+13. [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2022-08-23 06:34:58)
 
-13. [wework-miniprogram](https://github.com/sonofmagic/wework-miniprogram) (2022-07-14 06:55:09)
+14. [wework-miniprogram](https://github.com/sonofmagic/wework-miniprogram) (2022-07-14 06:55:09)
 
     a ppt about wework-miniprogram and 对应的微信小程序兼容转化和私有化部署方案
 
-14. [vue-mini-store](https://github.com/sonofmagic/vue-mini-store) (2022-07-14 06:54:16)
+15. [vue-mini-store](https://github.com/sonofmagic/vue-mini-store) (2022-07-14 06:54:16)
 
     a portable store which goes through multiple components and can be created and destoryed easily
 
-15. [feel-the-charm-of-serverless](https://github.com/sonofmagic/feel-the-charm-of-serverless) (2022-07-14 06:54:13)
+16. [feel-the-charm-of-serverless](https://github.com/sonofmagic/feel-the-charm-of-serverless) (2022-07-14 06:54:13)
 
     some demos would show you \*\*the-charm-of-serverless\*\*
 
-16. [a-way-to-improve-wechat-cloudbase-experience](https://github.com/sonofmagic/a-way-to-improve-wechat-cloudbase-experience) (2022-07-14 06:54:12)
+17. [a-way-to-improve-wechat-cloudbase-experience](https://github.com/sonofmagic/a-way-to-improve-wechat-cloudbase-experience) (2022-07-14 06:54:12)
 
     抛砖引玉：一种改善微信云开发功能，开发者体验的思路
 
-17. [-](https://github.com/sonofmagic/-) (2022-07-14 06:54:10)
+18. [-](https://github.com/sonofmagic/-) (2022-07-14 06:54:10)
 
-18. [simple-serverless](https://github.com/sonofmagic/simple-serverless) (2022-07-14 06:54:08)
+19. [simple-serverless](https://github.com/sonofmagic/simple-serverless) (2022-07-14 06:54:08)
 
     simple serverless sdk cli ui .....
 
-19. [custom-serverless-framework-gui](https://github.com/sonofmagic/custom-serverless-framework-gui) (2022-07-14 06:54:08)
+20. [custom-serverless-framework-gui](https://github.com/sonofmagic/custom-serverless-framework-gui) (2022-07-14 06:54:08)
 
     custom-serverless-framework-cli
 
-20. [tencent-web-function-benchmark](https://github.com/sonofmagic/tencent-web-function-benchmark) (2022-07-14 06:54:02)
+21. [tencent-web-function-benchmark](https://github.com/sonofmagic/tencent-web-function-benchmark) (2022-07-14 06:54:02)
 
     tencent-web-function-benchmark
 
-21. [secondstate-ssvm-try](https://github.com/sonofmagic/secondstate-ssvm-try) (2022-07-14 06:54:00)
+22. [secondstate-ssvm-try](https://github.com/sonofmagic/secondstate-ssvm-try) (2022-07-14 06:54:00)
 
     try some ssvm demos at  \<https://www.secondstate.io/>
 
-22. [my-gatsby-site](https://github.com/sonofmagic/my-gatsby-site) (2022-07-14 06:53:51)
+23. [my-gatsby-site](https://github.com/sonofmagic/my-gatsby-site) (2022-07-14 06:53:51)
 
-23. [create-esbuild-app](https://github.com/sonofmagic/create-esbuild-app) (2022-07-14 06:53:43)
+24. [create-esbuild-app](https://github.com/sonofmagic/create-esbuild-app) (2022-07-14 06:53:43)
 
     create-esbuild-app
 
-24. [serverless-layer-deployer](https://github.com/sonofmagic/serverless-layer-deployer) (2022-07-14 06:53:34)
+25. [serverless-layer-deployer](https://github.com/sonofmagic/serverless-layer-deployer) (2022-07-14 06:53:34)
 
     a util to help us zip \`node\_modules\` ,upload to OSS, and deploy
 
-25. [simple-cloudbase-plugins](https://github.com/sonofmagic/simple-cloudbase-plugins) (2022-07-14 06:53:33)
+26. [simple-cloudbase-plugins](https://github.com/sonofmagic/simple-cloudbase-plugins) (2022-07-14 06:53:33)
 
     simple-cloudbase-plugins
 
-26. [mpx-project-error](https://github.com/sonofmagic/mpx-project-error) (2022-07-14 06:52:57)
+27. [mpx-project-error](https://github.com/sonofmagic/mpx-project-error) (2022-07-14 06:52:57)
 
     mpx-project-error
 
-27. [cook-source-map](https://github.com/sonofmagic/cook-source-map) (2022-07-01 06:48:33)
+28. [cook-source-map](https://github.com/sonofmagic/cook-source-map) (2022-07-01 06:48:33)
 
     cook-source-map
 
-28. [Module-Federation](https://github.com/sonofmagic/Module-Federation) (2022-07-01 06:48:32)
+29. [Module-Federation](https://github.com/sonofmagic/Module-Federation) (2022-07-01 06:48:32)
 
     Created with StackBlitz ⚡️
 
-29. [rollup-plugin-raw](https://github.com/sonofmagic/rollup-plugin-raw) (2022-07-01 06:47:57)
+30. [rollup-plugin-raw](https://github.com/sonofmagic/rollup-plugin-raw) (2022-07-01 06:47:57)
 
     rollup-plugin-raw
 
-30. [vetur-utils](https://github.com/sonofmagic/vetur-utils) (2022-07-01 06:47:56)
+31. [vetur-utils](https://github.com/sonofmagic/vetur-utils) (2022-07-01 06:47:56)
 
     vetur-utils
 
-31. [ascii-art-avatar](https://github.com/sonofmagic/ascii-art-avatar) (2022-07-01 06:47:48)
+32. [ascii-art-avatar](https://github.com/sonofmagic/ascii-art-avatar) (2022-07-01 06:47:48)
 
     serverless image generator
 
-32. [awesome](https://github.com/sonofmagic/awesome) (2022-07-01 06:47:37)
+33. [awesome](https://github.com/sonofmagic/awesome) (2022-07-01 06:47:37)
 
-33. [npm-lib-webpack-template](https://github.com/sonofmagic/npm-lib-webpack-template) (2022-07-01 06:47:33)
+34. [npm-lib-webpack-template](https://github.com/sonofmagic/npm-lib-webpack-template) (2022-07-01 06:47:33)
 
     npm-lib-webpack-template
 
-34. [serverless-sqlite-db](https://github.com/sonofmagic/serverless-sqlite-db) (2022-07-01 06:47:31)
+35. [serverless-sqlite-db](https://github.com/sonofmagic/serverless-sqlite-db) (2022-07-01 06:47:31)
 
     host sqlite-db in csf
 
-35. [vue-component-creator](https://github.com/sonofmagic/vue-component-creator) (2022-07-01 06:47:25)
+36. [vue-component-creator](https://github.com/sonofmagic/vue-component-creator) (2022-07-01 06:47:25)
 
     vue-component-creator
 
-36. [vue3-jsx-rendertron](https://github.com/sonofmagic/vue3-jsx-rendertron) (2022-07-01 06:47:14)
+37. [vue3-jsx-rendertron](https://github.com/sonofmagic/vue3-jsx-rendertron) (2022-07-01 06:47:14)
 
     Tencent Serverless SCF Headless chromium
 
-37. [simple-cloudbase-website](https://github.com/sonofmagic/simple-cloudbase-website) (2022-07-01 06:46:56)
+38. [simple-cloudbase-website](https://github.com/sonofmagic/simple-cloudbase-website) (2022-07-01 06:46:56)
 
     simple-cloudbase的文档,部署在tencent cdn上
 
-38. [archiver-cli](https://github.com/sonofmagic/archiver-cli) (2021-04-24 17:26:13)
+39. [archiver-cli](https://github.com/sonofmagic/archiver-cli) (2021-04-24 17:26:13)
 
     very easy to use
 
-39. [TestDemo](https://github.com/sonofmagic/TestDemo) (2020-12-16 05:47:06)
+40. [TestDemo](https://github.com/sonofmagic/TestDemo) (2020-12-16 05:47:06)
 
-40. [vue-ssr-client-only-demo](https://github.com/sonofmagic/vue-ssr-client-only-demo) (2020-12-16 05:46:57)
+41. [vue-ssr-client-only-demo](https://github.com/sonofmagic/vue-ssr-client-only-demo) (2020-12-16 05:46:57)
 
-41. [vue-ssr-guide](https://github.com/sonofmagic/vue-ssr-guide) (2020-12-16 05:46:55)
+42. [vue-ssr-guide](https://github.com/sonofmagic/vue-ssr-guide) (2020-12-16 05:46:55)
 
     vue-ssr-guide
 
-42. [numbers-chinese-unit-formatter](https://github.com/sonofmagic/numbers-chinese-unit-formatter) (2020-12-16 05:46:54)
+43. [numbers-chinese-unit-formatter](https://github.com/sonofmagic/numbers-chinese-unit-formatter) (2020-12-16 05:46:54)
 
 ## unknown (17)
 
@@ -529,4 +531,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-08 01:00:57
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-09 00:59:09
