@@ -13,63 +13,63 @@
 
 ## TypeScript (62)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-09-11 01:26:34)
+1.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-09-12 15:44:36)
+
+    weapp-core utils
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-09-11 01:26:34)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [weapp-runtime-injector](https://github.com/sonofmagic/weapp-runtime-injector) (2023-09-10 14:55:42)
+3.  [weapp-runtime-injector](https://github.com/sonofmagic/weapp-runtime-injector) (2023-09-10 14:55:42)
 
     weapp-runtime-injector
 
-3.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-09-07 15:28:26)
+4.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-09-07 15:28:26)
 
     To use pandacss in weapp!&#x20;
 
-4.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-05 08:46:58)
+5.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-05 08:46:58)
 
     serverless-aws-cn-guide
 
-5.  [icestack](https://github.com/sonofmagic/icestack) (2023-08-31 17:48:17)
+6.  [icestack](https://github.com/sonofmagic/icestack) (2023-08-31 17:48:17)
 
     ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
 
-6.  [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-31 16:31:39)
+7.  [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-31 16:31:39)
 
     node-ip2region
 
-7.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-29 20:27:23)
+8.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-29 20:27:23)
 
-8.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-25 18:40:26)
+9.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-25 18:40:26)
 
     a obfuscator tool for tailwindcss mangle
 
-9.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-22 11:13:18)
+10. [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-22 11:13:18)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-10. [weapp-iconfont](https://github.com/sonofmagic/weapp-iconfont) (2023-08-18 16:22:12)
+11. [weapp-iconfont](https://github.com/sonofmagic/weapp-iconfont) (2023-08-18 16:22:12)
 
     weapp-iconfont
 
-11. [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2023-08-16 12:10:06)
+12. [cli-file-viewer](https://github.com/sonofmagic/cli-file-viewer) (2023-08-16 12:10:06)
 
     cli-file-viewer cli page pagation file
 
-12. [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-08-15 02:19:58)
+13. [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-08-15 02:19:58)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-13. [modern-ahocorasick](https://github.com/sonofmagic/modern-ahocorasick) (2023-08-11 06:07:01)
+14. [modern-ahocorasick](https://github.com/sonofmagic/modern-ahocorasick) (2023-08-11 06:07:01)
 
     modern-ahocorasick
 
-14. [ast-core](https://github.com/sonofmagic/ast-core) (2023-08-11 01:57:44)
+15. [ast-core](https://github.com/sonofmagic/ast-core) (2023-08-11 01:57:44)
 
     ast-core
-
-15. [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-08-10 12:43:46)
-
-    weapp-core utils
 
 16. [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-08-10 01:29:46)
 
@@ -533,4 +533,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-12 00:59:33
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-13 01:02:38
