@@ -12,39 +12,39 @@
 
 ## TypeScript (60)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-09-14 03:28:41)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-09-16 06:15:28)
+
+    a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-09-14 03:28:41)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-13 03:26:09)
+3.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-13 03:26:09)
 
     serverless-aws-cn-guide
 
-3.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-09-12 15:44:36)
+4.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-09-12 15:44:36)
 
     weapp-core utils
 
-4.  [weapp-runtime-injector](https://github.com/sonofmagic/weapp-runtime-injector) (2023-09-10 14:55:42)
+5.  [weapp-runtime-injector](https://github.com/sonofmagic/weapp-runtime-injector) (2023-09-10 14:55:42)
 
     weapp-runtime-injector
 
-5.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-09-07 15:28:26)
+6.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-09-07 15:28:26)
 
     To use pandacss in weapp!&#x20;
 
-6.  [icestack](https://github.com/sonofmagic/icestack) (2023-08-31 17:48:17)
+7.  [icestack](https://github.com/sonofmagic/icestack) (2023-08-31 17:48:17)
 
     ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
 
-7.  [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-31 16:31:39)
+8.  [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-31 16:31:39)
 
     node-ip2region
 
-8.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-29 20:27:23)
-
-9.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-08-25 18:40:26)
-
-    a obfuscator tool for tailwindcss mangle
+9.  [taro-react-pandacss-template](https://github.com/sonofmagic/taro-react-pandacss-template) (2023-08-29 20:27:23)
 
 10. [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-08-22 11:13:18)
 
@@ -236,11 +236,11 @@
 
 ## JavaScript (43)
 
-1.  [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-09-08 09:54:51)
-
-2.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-09-04 16:18:37)
+1.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-09-16 11:31:56)
 
     taro-react-tailwind-vscode-template
+
+2.  [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-09-08 09:54:51)
 
 3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-09-02 08:09:17)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-16 00:59:48
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-17 01:04:44
