@@ -12,7 +12,7 @@
 
 ## TypeScript (60)
 
-1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-09-16 06:15:28)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-09-17 11:04:49)
 
     a obfuscator tool for tailwindcss mangle
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-17 01:04:44
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-18 01:01:42
