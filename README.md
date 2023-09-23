@@ -12,21 +12,21 @@
 
 ## TypeScript (60)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-09-20 08:06:38)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-09-22 14:43:23)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-09-18 02:37:57)
+2.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-22 10:53:04)
+
+    serverless-aws-cn-guide
+
+3.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-09-18 02:37:57)
 
     tailwindcss-rem2px-preset
 
-3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-09-17 11:04:49)
+4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-09-17 11:04:49)
 
     a obfuscator tool for tailwindcss mangle
-
-4.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-13 03:26:09)
-
-    serverless-aws-cn-guide
 
 5.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-09-12 15:44:36)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-22 01:01:52
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-09-23 00:59:47
