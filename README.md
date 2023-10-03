@@ -12,41 +12,41 @@
 
 ## TypeScript (60)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-01 23:47:18)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-02 06:19:10)
+
+    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-01 23:47:18)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-09-23 02:16:49)
+3.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-09-23 02:16:49)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-3.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-22 10:53:04)
+4.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-22 10:53:04)
 
     serverless-aws-cn-guide
 
-4.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-09-18 02:37:57)
+5.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-09-18 02:37:57)
 
     tailwindcss-rem2px-preset
 
-5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-09-17 11:04:49)
+6.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-09-17 11:04:49)
 
     a obfuscator tool for tailwindcss mangle
 
-6.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-09-12 15:44:36)
+7.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-09-12 15:44:36)
 
     weapp-core utils
 
-7.  [weapp-runtime-injector](https://github.com/sonofmagic/weapp-runtime-injector) (2023-09-10 14:55:42)
+8.  [weapp-runtime-injector](https://github.com/sonofmagic/weapp-runtime-injector) (2023-09-10 14:55:42)
 
     weapp-runtime-injector
 
-8.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-09-07 15:28:26)
+9.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2023-09-07 15:28:26)
 
     To use pandacss in weapp!&#x20;
-
-9.  [icestack](https://github.com/sonofmagic/icestack) (2023-08-31 17:48:17)
-
-    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
 
 10. [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2023-08-31 16:31:39)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-02 01:02:55
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-03 01:02:46
