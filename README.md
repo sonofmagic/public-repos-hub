@@ -12,21 +12,21 @@
 
 ## TypeScript (60)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-03 03:25:04)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-04 02:10:38)
+
+    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-03 03:25:04)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-10-03 03:24:40)
+3.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-10-03 03:24:40)
 
     npm-lib-template
 
-3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-10-03 02:02:09)
+4.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-10-03 02:02:09)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
-
-4.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-02 06:19:10)
-
-    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
 
 5.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-09-23 02:16:49)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-04 01:03:53
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-05 01:02:20
