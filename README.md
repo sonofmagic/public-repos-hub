@@ -236,19 +236,19 @@
 
 ## JavaScript (43)
 
-1.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-09-21 17:31:30)
+1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-10-07 15:30:20)
+
+    uni-app-vue2-tailwind-hbuilder-template&#x20;
+
+2.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-09-21 17:31:30)
 
     taro-react-tailwind-vscode-template
 
-2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-09-21 02:37:06)
+3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-09-21 02:37:06)
 
     uni-app-vue2-tailwind-vscode-template
 
-3.  [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-09-08 09:54:51)
-
-4.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-08-30 03:39:36)
-
-    uni-app-vue2-tailwind-hbuilder-template&#x20;
+4.  [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-09-08 09:54:51)
 
 5.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-08-30 03:39:35)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-07 01:01:27
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-08 01:06:26
