@@ -12,13 +12,13 @@
 
 ## TypeScript (60)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-04 02:10:38)
-
-    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-03 03:25:04)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-08 01:51:37)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-04 02:10:38)
+
+    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
 
 3.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-10-03 03:24:40)
 
@@ -236,13 +236,13 @@
 
 ## JavaScript (43)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-10-07 15:30:20)
-
-    uni-app-vue2-tailwind-hbuilder-template&#x20;
-
-2.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-09-21 17:31:30)
+1.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-10-08 09:32:08)
 
     taro-react-tailwind-vscode-template
+
+2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-10-07 15:30:20)
+
+    uni-app-vue2-tailwind-hbuilder-template&#x20;
 
 3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-09-21 02:37:06)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-08 01:06:26
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-09 01:02:27
