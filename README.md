@@ -12,21 +12,21 @@
 
 ## TypeScript (60)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-12 07:18:48)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-13 09:32:05)
+
+    ❤️❤️❤️❤️ IceStack, Web UI for Mobile and PC ,open-source Headless component library generator
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-12 07:18:48)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-10-12 07:04:11)
+3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-10-12 07:04:11)
 
     a obfuscator tool for tailwindcss mangle
 
-3.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-10-09 17:42:16)
+4.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-10-09 17:42:16)
 
     tailwindcss-rem2px-preset
-
-4.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-04 02:10:38)
-
-    ice-ui Web UI, open-source Tailwind CSS Headless component library (WIP)
 
 5.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-10-03 03:24:40)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-13 01:04:03
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-14 01:00:45
