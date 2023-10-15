@@ -12,9 +12,9 @@
 
 ## TypeScript (60)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-13 09:32:05)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-14 03:35:50)
 
-    ❤️❤️❤️❤️ IceStack, Web UI for Mobile and PC ,open-source Headless component library generator
+    ❤️ IceStack, Web UI for Mobile and PC , open-source Headless component library generator
 
 2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-12 07:18:48)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-14 01:00:45
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-15 01:06:52
