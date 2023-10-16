@@ -12,41 +12,41 @@
 
 ## TypeScript (60)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-14 03:35:50)
+1.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-10-15 01:15:52)
 
-    ❤️ IceStack, Web UI for Mobile and PC , open-source Headless component library generator
+    weapp-core utils
 
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-12 07:18:48)
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-15 01:11:33)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-10-12 07:04:11)
+3.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-14 03:35:50)
+
+    ❤️ IceStack, Web UI for Mobile and PC , open-source Headless component library generator
+
+4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-10-12 07:04:11)
 
     a obfuscator tool for tailwindcss mangle
 
-4.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-10-09 17:42:16)
+5.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-10-09 17:42:16)
 
     tailwindcss-rem2px-preset
 
-5.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-10-03 03:24:40)
+6.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2023-10-03 03:24:40)
 
     npm-lib-template
 
-6.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-10-03 02:02:09)
+7.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-10-03 02:02:09)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-7.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-09-23 02:16:49)
+8.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2023-09-23 02:16:49)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-8.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-22 10:53:04)
+9.  [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2023-09-22 10:53:04)
 
     serverless-aws-cn-guide
-
-9.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-09-12 15:44:36)
-
-    weapp-core utils
 
 10. [weapp-runtime-injector](https://github.com/sonofmagic/weapp-runtime-injector) (2023-09-10 14:55:42)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-15 01:06:52
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-16 01:03:36
