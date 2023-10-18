@@ -12,21 +12,21 @@
 
 ## TypeScript (60)
 
-1.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-10-16 17:32:50)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-17 18:04:50)
 
-    A fork of graphql-depth-limit, rewrite with typescript and build into cjs and esm.
+    ❤️ IceStack, Web UI for Mobile and PC , open-source Headless component library generator
 
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-16 06:00:06)
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-17 15:28:30)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-3.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-10-15 01:15:52)
+3.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-10-16 17:32:50)
+
+    A fork of graphql-depth-limit, rewrite with typescript and build into cjs and esm.
+
+4.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-10-15 01:15:52)
 
     weapp-core utils
-
-4.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-14 03:35:50)
-
-    ❤️ IceStack, Web UI for Mobile and PC , open-source Headless component library generator
 
 5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-10-12 07:04:11)
 
@@ -444,7 +444,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-10-16 09:29:26)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-10-17 10:51:04)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-17 01:02:58
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-18 01:02:49
