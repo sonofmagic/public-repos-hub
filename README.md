@@ -12,25 +12,25 @@
 
 ## TypeScript (60)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-17 18:04:50)
-
-    ❤️ IceStack, Web UI for Mobile and PC , open-source Headless component library generator
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-17 15:28:30)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-10-18 10:34:05)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-3.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-10-16 17:32:50)
+2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-10-18 09:15:03)
+
+    a obfuscator tool for tailwindcss mangle
+
+3.  [icestack](https://github.com/sonofmagic/icestack) (2023-10-17 18:04:50)
+
+    ❤️ IceStack, Web UI for Mobile and PC , open-source Headless component library generator
+
+4.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-10-16 17:32:50)
 
     A fork of graphql-depth-limit, rewrite with typescript and build into cjs and esm.
 
-4.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-10-15 01:15:52)
+5.  [weapp-core](https://github.com/sonofmagic/weapp-core) (2023-10-15 01:15:52)
 
     weapp-core utils
-
-5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-10-12 07:04:11)
-
-    a obfuscator tool for tailwindcss mangle
 
 6.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2023-10-09 17:42:16)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-18 01:02:49
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-19 01:02:23
