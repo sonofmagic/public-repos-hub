@@ -444,17 +444,17 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-10-19 07:02:46)
+1.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-10-21 09:51:10)
+
+    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-10-19 07:02:46)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-10-10 09:44:31)
+3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-10-10 09:44:31)
 
     uni-app-vue3-tailwind-hbuilder-template
-
-3.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-08-17 13:42:22)
-
-    A serverless-nuxt3-taiwindcss template Hosted by Tencent Cloud SCF
 
 4.  [vue-offscreen-canvas-worker-jszip](https://github.com/sonofmagic/vue-offscreen-canvas-worker-jszip) (2023-08-15 03:45:03)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-21 01:00:33
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-22 01:06:39
