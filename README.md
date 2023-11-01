@@ -236,67 +236,67 @@
 
 ## JavaScript (43)
 
-1.  [my-gatsby-site](https://github.com/sonofmagic/my-gatsby-site) (2023-10-27 09:29:57)
+1.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-10-31 08:40:06)
 
-2.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2023-10-27 09:29:55)
+    uni-app-vue2-tailwind-vscode-template
 
-3.  [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2023-10-27 09:29:53)
+2.  [my-gatsby-site](https://github.com/sonofmagic/my-gatsby-site) (2023-10-27 09:29:57)
 
-4.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-10-27 09:29:52)
+3.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2023-10-27 09:29:55)
+
+4.  [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2023-10-27 09:29:53)
+
+5.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-10-27 09:29:52)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-5.  [custom-serverless-framework-gui](https://github.com/sonofmagic/custom-serverless-framework-gui) (2023-10-27 09:29:46)
+6.  [custom-serverless-framework-gui](https://github.com/sonofmagic/custom-serverless-framework-gui) (2023-10-27 09:29:46)
 
     custom-serverless-framework-cli
 
-6.  [simple-serverless](https://github.com/sonofmagic/simple-serverless) (2023-10-27 09:29:43)
+7.  [simple-serverless](https://github.com/sonofmagic/simple-serverless) (2023-10-27 09:29:43)
 
     simple serverless sdk cli ui .....
 
-7.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-10-27 09:29:42)
+8.  [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-10-27 09:29:42)
 
     jest-esm-cjs-test-demo
 
-8.  [mpx-project-error](https://github.com/sonofmagic/mpx-project-error) (2023-10-27 09:29:31)
+9.  [mpx-project-error](https://github.com/sonofmagic/mpx-project-error) (2023-10-27 09:29:31)
 
     mpx-project-error
 
-9.  [-](https://github.com/sonofmagic/-) (2023-10-27 09:29:24)
+10. [-](https://github.com/sonofmagic/-) (2023-10-27 09:29:24)
 
-10. [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-10-27 09:29:21)
+11. [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-10-27 09:29:21)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
 
-11. [simple-cloudbase-plugins](https://github.com/sonofmagic/simple-cloudbase-plugins) (2023-10-27 09:29:14)
+12. [simple-cloudbase-plugins](https://github.com/sonofmagic/simple-cloudbase-plugins) (2023-10-27 09:29:14)
 
     simple-cloudbase-plugins
 
-12. [create-esbuild-app](https://github.com/sonofmagic/create-esbuild-app) (2023-10-27 09:29:13)
+13. [create-esbuild-app](https://github.com/sonofmagic/create-esbuild-app) (2023-10-27 09:29:13)
 
     create-esbuild-app
 
-13. [tencent-web-function-benchmark](https://github.com/sonofmagic/tencent-web-function-benchmark) (2023-10-27 09:28:58)
+14. [tencent-web-function-benchmark](https://github.com/sonofmagic/tencent-web-function-benchmark) (2023-10-27 09:28:58)
 
     tencent-web-function-benchmark
 
-14. [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-10-27 09:28:31)
+15. [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-10-27 09:28:31)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-15. [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-10-27 09:28:18)
+16. [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-10-27 09:28:18)
 
-16. [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-10-27 09:28:02)
+17. [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-10-27 09:28:02)
 
     taro-react-tailwind-vscode-template
 
-17. [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-10-27 09:27:59)
+18. [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-10-27 09:27:59)
 
     my eslint config hub
-
-18. [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-09-21 02:37:06)
-
-    uni-app-vue2-tailwind-vscode-template
 
 19. [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-08-30 03:39:35)
 
@@ -444,25 +444,25 @@
 
 ## Vue (15)
 
-1.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2023-10-27 09:30:59)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-10-31 09:39:43)
 
-2.  [miniprogram-qrcode-clip](https://github.com/sonofmagic/miniprogram-qrcode-clip) (2023-10-27 09:29:54)
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
+
+2.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2023-10-27 09:30:59)
+
+3.  [miniprogram-qrcode-clip](https://github.com/sonofmagic/miniprogram-qrcode-clip) (2023-10-27 09:29:54)
 
     clip miniprogram qrcode center circle area at client side to your custom image!&#x20;
 
-3.  [tencent-scf-reserved-instance-test](https://github.com/sonofmagic/tencent-scf-reserved-instance-test) (2023-10-27 09:29:49)
+4.  [tencent-scf-reserved-instance-test](https://github.com/sonofmagic/tencent-scf-reserved-instance-test) (2023-10-27 09:29:49)
 
-4.  [Jamstack-with-serverless-framework](https://github.com/sonofmagic/Jamstack-with-serverless-framework) (2023-10-27 09:29:29)
+5.  [Jamstack-with-serverless-framework](https://github.com/sonofmagic/Jamstack-with-serverless-framework) (2023-10-27 09:29:29)
 
     Serverless Framework CI/CD with Github Actions
 
-5.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-10-27 09:28:04)
+6.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-10-27 09:28:04)
 
     uni-app-vue3-tailwind-hbuilder-template
-
-6.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-10-23 06:12:06)
-
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
 7.  [serverless-nuxt3-template](https://github.com/sonofmagic/serverless-nuxt3-template) (2023-10-21 09:51:10)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-10-31 01:02:52
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-11-01 01:06:30
