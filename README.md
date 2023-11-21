@@ -444,7 +444,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-11-16 06:02:11)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-11-20 07:34:10)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-11-20 01:06:31
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-11-21 01:07:11
