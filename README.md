@@ -12,13 +12,13 @@
 
 ## TypeScript (60)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2023-11-23 09:45:11)
-
-    ❤️ IceStack, Web UI for Mobile, PC and Mini Program, open-source Headless component library generator
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-11-21 13:43:44)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-11-24 02:16:45)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [icestack](https://github.com/sonofmagic/icestack) (2023-11-23 09:45:11)
+
+    ❤️ IceStack, Web UI for Mobile, PC and Mini Program, open-source Headless component library generator
 
 3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-11-09 07:44:19)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-11-24 01:04:05
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-11-25 01:02:56
