@@ -12,25 +12,25 @@
 
 ## TypeScript (60)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-10 13:44:03)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2023-12-11 07:38:53)
+
+    ❤️ IceStack, Web UI for Mobile, PC and Mini Program, open-source Headless component library generator
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-11 04:40:49)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-12-07 06:37:09)
+3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-12-07 06:37:09)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-3.  [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2023-12-05 06:40:04)
+4.  [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2023-12-05 06:40:04)
 
     Support Webpack both 4 and 5 , A loader for webpack that allows importing files as a lodash template.
 
-4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-12-01 18:39:15)
+5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-12-01 18:39:15)
 
     a obfuscator tool for tailwindcss mangle
-
-5.  [icestack](https://github.com/sonofmagic/icestack) (2023-11-23 09:45:11)
-
-    ❤️ IceStack, Web UI for Mobile, PC and Mini Program, open-source Headless component library generator
 
 6.  [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2023-11-08 03:26:37)
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-12-11 01:06:52
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-12-12 01:06:49
