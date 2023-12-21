@@ -12,13 +12,13 @@
 
 ## TypeScript (60)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2023-12-20 00:21:38)
-
-    ❤️ IceStack, Web UI for Mobile, PC and Mini Program, open-source Headless component library generator
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-20 00:21:14)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-20 05:24:32)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [icestack](https://github.com/sonofmagic/icestack) (2023-12-20 00:21:38)
+
+    ❤️ IceStack, Web UI for Mobile, PC and Mini Program, open-source Headless component library generator
 
 3.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-12-13 10:52:53)
 
@@ -444,7 +444,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-12-19 00:38:31)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2023-12-20 08:59:00)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -520,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-12-20 00:54:20
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-12-21 01:04:43
