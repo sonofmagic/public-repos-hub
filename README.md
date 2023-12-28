@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-26 12:21:18)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-27 09:54:51)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -501,9 +501,9 @@
 
 ## MDX (1)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2023-12-24 11:03:13)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2023-12-27 10:57:04)
 
-    ❤️ IceStack, Web UI for Mobile, PC and Mini Program, open-source Headless component library generator
+    ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
 
 ## C++ (1)
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-12-27 01:03:22
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2023-12-28 01:03:06
