@@ -13,13 +13,13 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-28 06:25:54)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
-
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2023-12-13 10:52:53)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-01-01 23:06:03)
 
     a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-28 06:25:54)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
 3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-12-07 06:37:09)
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-01 01:11:19
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-02 01:03:58
