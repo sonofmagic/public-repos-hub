@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-01-01 23:06:03)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-01-03 22:07:47)
 
     a obfuscator tool for tailwindcss mangle
 
@@ -501,7 +501,7 @@
 
 ## MDX (1)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2023-12-27 10:57:04)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2024-01-03 07:27:47)
 
     ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-03 01:05:18
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-04 01:05:27
