@@ -13,13 +13,13 @@
 
 ## TypeScript (59)
 
-1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-01-03 22:07:47)
-
-    a obfuscator tool for tailwindcss mangle
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2023-12-28 06:25:54)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-04 08:24:58)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-01-03 22:07:47)
+
+    a obfuscator tool for tailwindcss mangle
 
 3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-12-07 06:37:09)
 
@@ -233,21 +233,21 @@
 
 ## JavaScript (43)
 
-1.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-12-20 00:20:23)
+1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2024-01-04 02:39:08)
+
+    uni-app-vue2-tailwind-hbuilder-template&#x20;
+
+2.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-12-20 00:20:23)
 
     drift aimlessly through life
 
-2.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-11-22 10:57:04)
+3.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-11-22 10:57:04)
 
     taro-react-tailwind-vscode-template
 
-3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-11-09 02:08:52)
+4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-11-09 02:08:52)
 
     uni-app-vue2-tailwind-vscode-template
-
-4.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2023-11-06 09:00:37)
-
-    uni-app-vue2-tailwind-hbuilder-template&#x20;
 
 5.  [my-gatsby-site](https://github.com/sonofmagic/my-gatsby-site) (2023-10-27 09:29:57)
 
@@ -501,7 +501,7 @@
 
 ## MDX (1)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2024-01-03 07:27:47)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2024-01-04 01:25:04)
 
     ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-04 01:05:27
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-05 01:05:50
