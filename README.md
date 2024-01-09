@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-07 16:48:24)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-08 15:47:31)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -233,17 +233,17 @@
 
 ## JavaScript (43)
 
-1.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2024-01-04 02:39:08)
+1.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-01-08 06:56:42)
+
+    taro-react-tailwind-vscode-template
+
+2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2024-01-04 02:39:08)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-2.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-12-20 00:20:23)
+3.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-12-20 00:20:23)
 
     drift aimlessly through life
-
-3.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2023-11-22 10:57:04)
-
-    taro-react-tailwind-vscode-template
 
 4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-11-09 02:08:52)
 
@@ -441,7 +441,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-01-05 07:04:32)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-01-08 05:23:36)
 
     uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-08 01:07:13
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-09 01:07:10
