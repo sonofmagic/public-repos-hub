@@ -13,25 +13,25 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-24 14:28:59)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-25 13:14:38)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-01-22 17:43:11)
-
-    a obfuscator tool for tailwindcss mangle
-
-3.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2024-01-19 09:53:04)
+2.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2024-01-25 09:33:35)
 
     npm-lib-template
 
-4.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-01-11 17:55:12)
-
-    To use pandacss in weapp!&#x20;
-
-5.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2023-12-07 06:37:09)
+3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2024-01-25 02:10:42)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-01-22 17:43:11)
+
+    a obfuscator tool for tailwindcss mangle
+
+5.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-01-11 17:55:12)
+
+    To use pandacss in weapp!&#x20;
 
 6.  [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2023-12-05 06:40:04)
 
@@ -505,7 +505,7 @@
 
 ## MDX (1)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2024-01-22 02:01:02)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2024-01-25 09:54:05)
 
     ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
 
@@ -527,4 +527,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-25 01:08:30
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-26 01:03:29
