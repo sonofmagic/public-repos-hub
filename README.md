@@ -6,14 +6,13 @@
     *   [unknown (17)](#unknown-17)
     *   [Vue (15)](#vue-15)
     *   [C# (2)](#c-2)
-    *   [MDX (1)](#mdx-1)
     *   [C++ (1)](#c-1)
     *   [CSS (1)](#css-1)
     *   [PHP (1)](#php-1)
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-25 13:14:38)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-26 07:03:46)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -503,12 +502,6 @@
 
 2.  [WebCrawler](https://github.com/sonofmagic/WebCrawler) (2020-12-16 05:47:07)
 
-## MDX (1)
-
-1.  [icestack](https://github.com/sonofmagic/icestack) (2024-01-25 09:54:05)
-
-    ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
-
 ## C++ (1)
 
 1.  [fultter-bluetooth](https://github.com/sonofmagic/fultter-bluetooth) (2023-10-27 09:29:52)
@@ -527,4 +520,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-26 01:03:29
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-27 01:01:31
