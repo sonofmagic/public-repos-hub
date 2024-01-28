@@ -6,23 +6,24 @@
     *   [unknown (17)](#unknown-17)
     *   [Vue (15)](#vue-15)
     *   [C# (2)](#c-2)
+    *   [MDX (1)](#mdx-1)
     *   [C++ (1)](#c-1)
     *   [CSS (1)](#css-1)
     *   [PHP (1)](#php-1)
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-26 07:03:46)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-27 13:23:45)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-2.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2024-01-25 09:33:35)
-
-    npm-lib-template
-
-3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2024-01-25 02:10:42)
+2.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2024-01-27 10:21:47)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
+
+3.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2024-01-25 09:33:35)
+
+    npm-lib-template
 
 4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-01-22 17:43:11)
 
@@ -444,13 +445,13 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-01-18 11:16:55)
-
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
-
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2023-12-06 08:40:18)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-01-27 12:40:58)
 
     uni-app-vue3-tailwind-hbuilder-template
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-01-18 11:16:55)
+
+    uni-app-vite-vue3-tailwind-vscode-template&#x20;
 
 3.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2023-10-27 09:30:59)
 
@@ -502,6 +503,12 @@
 
 2.  [WebCrawler](https://github.com/sonofmagic/WebCrawler) (2020-12-16 05:47:07)
 
+## MDX (1)
+
+1.  [icestack](https://github.com/sonofmagic/icestack) (2024-01-27 18:50:34)
+
+    ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
+
 ## C++ (1)
 
 1.  [fultter-bluetooth](https://github.com/sonofmagic/fultter-bluetooth) (2023-10-27 09:29:52)
@@ -520,4 +527,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-27 01:01:31
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-28 01:06:43
