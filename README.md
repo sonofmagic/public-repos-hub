@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-27 13:23:45)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-01-28 09:10:36)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -233,79 +233,79 @@
 
 ## JavaScript (43)
 
-1.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-01-08 06:56:42)
+1.  [weapp-program-card](https://github.com/sonofmagic/weapp-program-card) (2024-01-28 09:22:48)
+
+    微信小程序： 程序员名片 项目
+
+2.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-01-08 06:56:42)
 
     taro-react-tailwind-vscode-template
 
-2.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2024-01-04 02:39:08)
+3.  [uni-app-vue2-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-hbuilder-template) (2024-01-04 02:39:08)
 
     uni-app-vue2-tailwind-hbuilder-template&#x20;
 
-3.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-12-20 00:20:23)
+4.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-12-20 00:20:23)
 
     drift aimlessly through life
 
-4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-11-09 02:08:52)
+5.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2023-11-09 02:08:52)
 
     uni-app-vue2-tailwind-vscode-template
 
-5.  [my-gatsby-site](https://github.com/sonofmagic/my-gatsby-site) (2023-10-27 09:29:57)
+6.  [my-gatsby-site](https://github.com/sonofmagic/my-gatsby-site) (2023-10-27 09:29:57)
 
-6.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2023-10-27 09:29:55)
+7.  [react-pdf-nextjs-demo](https://github.com/sonofmagic/react-pdf-nextjs-demo) (2023-10-27 09:29:55)
 
-7.  [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2023-10-27 09:29:53)
+8.  [pnpm-install-webpack-plugin-test-case](https://github.com/sonofmagic/pnpm-install-webpack-plugin-test-case) (2023-10-27 09:29:53)
 
-8.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-10-27 09:29:52)
+9.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2023-10-27 09:29:52)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-9.  [custom-serverless-framework-gui](https://github.com/sonofmagic/custom-serverless-framework-gui) (2023-10-27 09:29:46)
+10. [custom-serverless-framework-gui](https://github.com/sonofmagic/custom-serverless-framework-gui) (2023-10-27 09:29:46)
 
     custom-serverless-framework-cli
 
-10. [simple-serverless](https://github.com/sonofmagic/simple-serverless) (2023-10-27 09:29:43)
+11. [simple-serverless](https://github.com/sonofmagic/simple-serverless) (2023-10-27 09:29:43)
 
     simple serverless sdk cli ui .....
 
-11. [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-10-27 09:29:42)
+12. [jest-esm-cjs-test-demo](https://github.com/sonofmagic/jest-esm-cjs-test-demo) (2023-10-27 09:29:42)
 
     jest-esm-cjs-test-demo
 
-12. [mpx-project-error](https://github.com/sonofmagic/mpx-project-error) (2023-10-27 09:29:31)
+13. [mpx-project-error](https://github.com/sonofmagic/mpx-project-error) (2023-10-27 09:29:31)
 
     mpx-project-error
 
-13. [-](https://github.com/sonofmagic/-) (2023-10-27 09:29:24)
+14. [-](https://github.com/sonofmagic/-) (2023-10-27 09:29:24)
 
-14. [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-10-27 09:29:21)
+15. [weapp-tailwindcss-children](https://github.com/sonofmagic/weapp-tailwindcss-children) (2023-10-27 09:29:21)
 
     weapp-tailwindcss-children, tailwindcss-children for weapp
 
-15. [simple-cloudbase-plugins](https://github.com/sonofmagic/simple-cloudbase-plugins) (2023-10-27 09:29:14)
+16. [simple-cloudbase-plugins](https://github.com/sonofmagic/simple-cloudbase-plugins) (2023-10-27 09:29:14)
 
     simple-cloudbase-plugins
 
-16. [create-esbuild-app](https://github.com/sonofmagic/create-esbuild-app) (2023-10-27 09:29:13)
+17. [create-esbuild-app](https://github.com/sonofmagic/create-esbuild-app) (2023-10-27 09:29:13)
 
     create-esbuild-app
 
-17. [tencent-web-function-benchmark](https://github.com/sonofmagic/tencent-web-function-benchmark) (2023-10-27 09:28:58)
+18. [tencent-web-function-benchmark](https://github.com/sonofmagic/tencent-web-function-benchmark) (2023-10-27 09:28:58)
 
     tencent-web-function-benchmark
 
-18. [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-10-27 09:28:18)
+19. [uni-app-vue2-webpack5-project](https://github.com/sonofmagic/uni-app-vue2-webpack5-project) (2023-10-27 09:28:18)
 
-19. [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-10-27 09:27:59)
+20. [eslint-config](https://github.com/sonofmagic/eslint-config) (2023-10-27 09:27:59)
 
     my eslint config hub
 
-20. [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
+21. [vue-d3-org-chart](https://github.com/sonofmagic/vue-d3-org-chart) (2023-05-16 21:22:56)
 
     vue-d3-org-chart
-
-21. [weapp](https://github.com/sonofmagic/weapp) (2023-03-28 22:54:57)
-
-    微信小程序： 程序员名片 项目
 
 22. [wework-miniprogram](https://github.com/sonofmagic/wework-miniprogram) (2022-07-14 06:55:09)
 
@@ -527,4 +527,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-28 01:06:43
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-01-29 01:02:43
