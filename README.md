@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-04 01:05:19)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-05 00:41:34)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -233,13 +233,13 @@
 
 ## JavaScript (42)
 
-1.  [weapp-program-card](https://github.com/sonofmagic/weapp-program-card) (2024-01-28 09:22:48)
-
-    微信小程序： 程序员名片 项目
-
-2.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-01-08 06:56:42)
+1.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-02-04 02:20:28)
 
     taro-react-tailwind-vscode-template
+
+2.  [weapp-program-card](https://github.com/sonofmagic/weapp-program-card) (2024-01-28 09:22:48)
+
+    微信小程序： 程序员名片 项目
 
 3.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2023-12-20 00:20:23)
 
@@ -441,9 +441,9 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-03 14:58:50)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-04 18:44:29)
 
-    uni-app-vite-vue3-tailwind-vscode-template&#x20;
+    uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
 2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-01-31 03:42:59)
 
@@ -501,7 +501,7 @@
 
 ## MDX (1)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2024-01-27 18:50:34)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2024-02-04 01:09:55)
 
     ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-04 01:06:33
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-05 01:03:56
