@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-06 15:54:55)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-07 15:12:20)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -385,23 +385,23 @@
 
 ## unknown (17)
 
-1.  [BeautyGirls](https://github.com/sonofmagic/BeautyGirls) (2024-01-22 10:00:52)
+1.  [weapp-tailwindcss-template-hub](https://github.com/sonofmagic/weapp-tailwindcss-template-hub) (2024-02-07 14:20:59)
+
+    小程序使用 tailwindcss 的模板集合 weapp-tailwindcss-template-hub
+
+2.  [BeautyGirls](https://github.com/sonofmagic/BeautyGirls) (2024-01-22 10:00:52)
 
     BeautyGirls
 
-2.  [serverless](https://github.com/sonofmagic/serverless) (2023-10-27 09:31:19)
+3.  [serverless](https://github.com/sonofmagic/serverless) (2023-10-27 09:31:19)
 
-3.  [serverless-netease-music](https://github.com/sonofmagic/serverless-netease-music) (2023-10-27 09:31:12)
+4.  [serverless-netease-music](https://github.com/sonofmagic/serverless-netease-music) (2023-10-27 09:31:12)
 
     为自个服务的网抑云
 
-4.  [serverless-framework-snippets](https://github.com/sonofmagic/serverless-framework-snippets) (2023-10-27 09:31:11)
+5.  [serverless-framework-snippets](https://github.com/sonofmagic/serverless-framework-snippets) (2023-10-27 09:31:11)
 
     serverless-framework-snippets
-
-5.  [weapp-tailwindcss-template-hub](https://github.com/sonofmagic/weapp-tailwindcss-template-hub) (2023-10-27 09:30:39)
-
-    小程序使用 tailwindcss 的模板集合 weapp-tailwindcss-template-hub
 
 6.  [vue-demi-component-template-](https://github.com/sonofmagic/vue-demi-component-template-) (2023-10-27 09:30:22)
 
@@ -441,7 +441,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-06 16:20:58)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-07 06:00:30)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-07 01:00:12
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-08 01:01:12
