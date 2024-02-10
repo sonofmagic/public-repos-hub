@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-08 01:43:36)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-09 09:35:43)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -441,7 +441,7 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-07 06:00:30)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-09 07:17:51)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-09 01:01:18
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-10 01:00:01
