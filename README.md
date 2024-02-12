@@ -13,25 +13,25 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-10 10:14:53)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
-
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-02-03 20:24:26)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-02-11 18:13:06)
 
     a obfuscator tool for tailwindcss mangle
 
-3.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2024-01-27 10:21:47)
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-11 13:12:29)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+3.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-02-11 11:31:09)
+
+    To use pandacss in weapp!&#x20;
+
+4.  [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2024-01-27 10:21:47)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-4.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2024-01-25 09:33:35)
+5.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2024-01-25 09:33:35)
 
     npm-lib-template
-
-5.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-01-11 17:55:12)
-
-    To use pandacss in weapp!&#x20;
 
 6.  [simple-lodash-template-loader](https://github.com/sonofmagic/simple-lodash-template-loader) (2023-12-05 06:40:04)
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-11 01:06:35
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-12 01:03:03
