@@ -13,13 +13,13 @@
 
 ## TypeScript (59)
 
-1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-02-19 18:44:37)
-
-    a obfuscator tool for tailwindcss mangle
-
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-19 08:02:55)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-02-20 09:10:21)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-02-19 18:44:37)
+
+    a obfuscator tool for tailwindcss mangle
 
 3.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2024-02-17 23:35:09)
 
@@ -441,13 +441,13 @@
 
 ## Vue (15)
 
-1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-02-19 15:37:21)
-
-    uni-app-vue3-tailwind-hbuilder-template
-
-2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-09 07:17:51)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-20 07:36:01)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
+
+2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-02-19 15:37:21)
+
+    uni-app-vue3-tailwind-hbuilder-template
 
 3.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2023-10-27 09:30:59)
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-20 01:00:56
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-02-21 01:02:12
