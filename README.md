@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-03-01 13:32:04)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-03-02 16:13:33)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-03-02 01:00:08
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-03-03 01:04:55
