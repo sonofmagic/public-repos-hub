@@ -13,7 +13,7 @@
 
 ## TypeScript (59)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-03-02 16:13:33)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-03-03 09:47:32)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -441,17 +441,17 @@
 
 ## Vue (15)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-27 14:34:17)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-03-03 15:49:34)
+
+    uni-app-vue3-tailwind-hbuilder-template
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-02-27 14:34:17)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
-2.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-02-25 14:56:19)
+3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-02-25 14:56:19)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
-
-3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-02-19 15:37:21)
-
-    uni-app-vue3-tailwind-hbuilder-template
 
 4.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2023-10-27 09:30:59)
 
@@ -523,4 +523,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-03-03 01:04:55
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-03-04 01:02:33
