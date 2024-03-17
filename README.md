@@ -13,19 +13,19 @@
 
 ## TypeScript (60)
 
-1.  [innerHTML-with-bundler](https://github.com/sonofmagic/innerHTML-with-bundler) (2024-03-15 13:02:26)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-03-16 19:19:13)
 
-2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-03-15 12:13:13)
+    a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-03-16 14:36:49)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-3.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2024-03-13 08:55:58)
+3.  [innerHTML-with-bundler](https://github.com/sonofmagic/innerHTML-with-bundler) (2024-03-15 13:02:26)
+
+4.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2024-03-13 08:55:58)
 
     weapp-navigate
-
-4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-03-06 07:54:07)
-
-    a obfuscator tool for tailwindcss mangle
 
 5.  [npm-lib-rollup-template](https://github.com/sonofmagic/npm-lib-rollup-template) (2024-03-04 13:40:01)
 
@@ -531,4 +531,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-03-16 01:00:48
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-03-17 01:05:58
