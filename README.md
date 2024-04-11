@@ -13,13 +13,13 @@
 
 ## TypeScript (62)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-04-09 08:28:50)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
-
-2.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-04-09 04:44:01)
+1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-04-10 13:55:51)
 
     a obfuscator tool for tailwindcss mangle
+
+2.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-04-10 01:32:59)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
 3.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-04-08 08:18:39)
 
@@ -459,21 +459,21 @@
 
 ## Vue (16)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-04-09 03:07:40)
+1.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-04-10 13:14:53)
+
+    ssg blog writed by nuxt , cloudbase and serverless cloud function
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-04-09 03:07:40)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
-2.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-04-04 14:47:16)
+3.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-04-04 14:47:16)
 
     🚀 Vite5 + Vue2 + Tailwindcss + TypeScript Starter Template
 
-3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-03-08 15:39:16)
+4.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-03-08 15:39:16)
 
     uni-app-vue3-tailwind-hbuilder-template
-
-4.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-02-25 14:56:19)
-
-    ssg blog writed by nuxt , cloudbase and serverless cloud function
 
 5.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2023-10-27 09:30:59)
 
@@ -523,7 +523,7 @@
 
 ## MDX (1)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2024-04-09 01:27:09)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2024-04-10 09:09:56)
 
     ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
 
@@ -545,4 +545,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-04-10 01:02:52
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-04-11 01:04:17
