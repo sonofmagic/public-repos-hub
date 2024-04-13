@@ -13,7 +13,7 @@
 
 ## TypeScript (62)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-04-11 07:39:29)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-04-12 08:50:54)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
@@ -459,21 +459,21 @@
 
 ## Vue (16)
 
-1.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-04-10 13:14:53)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-04-12 01:54:43)
+
+    uni-app-vue3-tailwind-hbuilder-template
+
+2.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-04-10 13:14:53)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
 
-2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-04-09 03:07:40)
+3.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-04-09 03:07:40)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
-3.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-04-04 14:47:16)
+4.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-04-04 14:47:16)
 
     🚀 Vite5 + Vue2 + Tailwindcss + TypeScript Starter Template
-
-4.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-03-08 15:39:16)
-
-    uni-app-vue3-tailwind-hbuilder-template
 
 5.  [mp-qrcode-login-project](https://github.com/sonofmagic/mp-qrcode-login-project) (2023-10-27 09:30:59)
 
@@ -523,7 +523,7 @@
 
 ## MDX (1)
 
-1.  [icestack](https://github.com/sonofmagic/icestack) (2024-04-10 09:09:56)
+1.  [icestack](https://github.com/sonofmagic/icestack) (2024-04-12 08:08:37)
 
     ❤️ IceStack, Web UI for Mobile, PC, open-source Css component library generator
 
@@ -545,4 +545,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-04-12 01:03:59
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-04-13 00:53:05
