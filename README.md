@@ -459,17 +459,17 @@
 
 ## Vue (16)
 
-1.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-04-14 09:26:13)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-04-17 07:31:48)
+
+    uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
+
+2.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-04-14 09:26:13)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
 
-2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-04-12 01:54:43)
+3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-04-12 01:54:43)
 
     uni-app-vue3-tailwind-hbuilder-template
-
-3.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-04-09 03:07:40)
-
-    uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
 4.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-04-04 14:47:16)
 
@@ -545,4 +545,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-04-17 01:03:56
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-04-18 01:03:22
