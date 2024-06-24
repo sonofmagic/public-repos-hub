@@ -8,59 +8,59 @@
 
 ## TypeScript (40)
 
-1.  [monorepo-template](https://github.com/sonofmagic/monorepo-template) (2024-06-22 17:31:09)
+1.  [monorepo-template](https://github.com/sonofmagic/monorepo-template) (2024-06-23 15:34:13)
 
     pnpm-turbo-monorepo-template
 
-2.  [npm-lib-template](https://github.com/sonofmagic/npm-lib-template) (2024-06-22 17:30:34)
+2.  [npm-lib-template](https://github.com/sonofmagic/npm-lib-template) (2024-06-23 15:33:47)
 
     npm-lib-template
 
-3.  [is-css-request](https://github.com/sonofmagic/is-css-request) (2024-06-22 16:31:21)
-
-    Utils for Checking if a path or url points to a CSS request.
-
-4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-06-22 13:21:50)
-
-    a obfuscator tool for tailwindcss mangle
-
-5.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-06-22 12:04:24)
+3.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-06-23 12:50:35)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-6.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2024-06-21 15:52:09)
+4.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-06-23 07:52:08)
+
+    🚀 Vite5 + Vue2 + Tailwindcss + TypeScript Starter Template
+
+5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-06-23 07:46:17)
+
+    a obfuscator tool for tailwindcss mangle
+
+6.  [is-css-request](https://github.com/sonofmagic/is-css-request) (2024-06-23 05:09:17)
+
+    Utils for Checking if a path or url points to a CSS request.
+
+7.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2024-06-21 15:52:09)
 
     my eslint config hub
 
-7.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-06-19 14:54:56)
+8.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-06-19 14:54:56)
 
     To use pandacss in weapp!&#x20;
 
-8.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2024-06-19 09:58:46)
+9.  [tailwindcss-rem2px-preset](https://github.com/sonofmagic/tailwindcss-rem2px-preset) (2024-06-19 09:58:46)
 
     tailwindcss-rem2px-preset
 
-9.  [vite-vue3-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue3-ts-tailwindcss-template) (2024-06-17 11:00:33)
+10. [vite-vue3-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue3-ts-tailwindcss-template) (2024-06-17 11:00:33)
 
-10. [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2024-06-17 06:12:05)
+11. [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2024-06-17 06:12:05)
 
     多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
 
-11. [utils](https://github.com/sonofmagic/utils) (2024-06-07 13:30:51)
+12. [utils](https://github.com/sonofmagic/utils) (2024-06-07 13:30:51)
 
     icebreaker's utils hub
 
-12. [weapp-core](https://github.com/sonofmagic/weapp-core) (2024-06-07 13:21:09)
+13. [weapp-core](https://github.com/sonofmagic/weapp-core) (2024-06-07 13:21:09)
 
     weapp-core utils
 
-13. [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2024-06-07 13:17:18)
+14. [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2024-06-07 13:17:18)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
-
-14. [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-06-05 11:51:40)
-
-    🚀 Vite5 + Vue2 + Tailwindcss + TypeScript Starter Template
 
 15. [graphql-depth-limit-ts](https://github.com/sonofmagic/graphql-depth-limit-ts) (2024-06-03 07:25:22)
 
@@ -164,21 +164,21 @@
 
 ## JavaScript (15)
 
-1.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2024-06-22 01:18:17)
+1.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-06-23 07:27:09)
+
+    taro-react-tailwind-vscode-template
+
+2.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2024-06-23 01:24:16)
 
     drift aimlessly through life
 
-2.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2024-06-18 03:01:20)
+3.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2024-06-18 03:01:20)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2024-06-16 13:44:51)
+4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2024-06-16 13:44:51)
 
     uni-app-vue2-tailwind-vscode-template
-
-4.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-05-24 15:16:20)
-
-    taro-react-tailwind-vscode-template
 
 5.  [npm-proxy-verdaccio](https://github.com/sonofmagic/npm-proxy-verdaccio) (2024-04-08 14:26:57)
 
@@ -226,7 +226,7 @@
 
 ## Vue (9)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-06-20 01:42:45)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-06-23 09:58:58)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
@@ -262,7 +262,7 @@
 
 ## unknown (5)
 
-1.  [public-repos-hub](https://github.com/sonofmagic/public-repos-hub) (2024-06-22 01:08:46)
+1.  [public-repos-hub](https://github.com/sonofmagic/public-repos-hub) (2024-06-23 01:14:14)
 
     Auto generated by https://github.com/sonofmagic/github-repository-distributor
 
@@ -282,4 +282,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-06-23 01:14:11
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-06-24 01:11:20
