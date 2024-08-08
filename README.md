@@ -9,49 +9,49 @@
 
 ## TypeScript (41)
 
-1.  [icebreakers-utils](https://github.com/sonofmagic/icebreakers-utils) (2024-08-06 06:44:29)
-
-    icebreaker's utils hub
-
-2.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-08-06 06:20:57)
-
-    To use pandacss in weapp!&#x20;
-
-3.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-08-05 10:12:19)
-
-    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
-
-4.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2024-08-05 07:53:00)
-
-    my eslint config hub
-
-5.  [monorepo-template](https://github.com/sonofmagic/monorepo-template) (2024-08-05 02:40:08)
-
-    pnpm-turbo-monorepo-template
-
-6.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-08-03 06:41:14)
-
-    a obfuscator tool for tailwindcss mangle
-
-7.  [npm-lib-template](https://github.com/sonofmagic/npm-lib-template) (2024-08-02 10:31:38)
-
-    npm-lib-template
-
-8.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-08-02 03:19:30)
-
-    🚀 Vite5 + Vue2 + Tailwindcss + TypeScript Starter Template
-
-9.  [is-css-request](https://github.com/sonofmagic/is-css-request) (2024-08-01 10:49:14)
+1.  [is-css-request](https://github.com/sonofmagic/is-css-request) (2024-08-08 00:58:51)
 
     Utils for Checking if a path or url points to a CSS request.
 
-10. [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2024-07-30 09:31:32)
+2.  [icebreakers-utils](https://github.com/sonofmagic/icebreakers-utils) (2024-08-08 00:58:39)
 
-    weapp-navigate
+    icebreaker's utils hub
 
-11. [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2024-07-29 10:03:26)
+3.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-08-07 16:01:53)
+
+    To use pandacss in weapp!&#x20;
+
+4.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-08-07 16:01:14)
+
+    bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
+
+5.  [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2024-08-07 09:35:11)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
+
+6.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2024-08-07 08:58:31)
+
+    my eslint config hub
+
+7.  [monorepo-template](https://github.com/sonofmagic/monorepo-template) (2024-08-05 02:40:08)
+
+    pnpm-turbo-monorepo-template
+
+8.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-08-03 06:41:14)
+
+    a obfuscator tool for tailwindcss mangle
+
+9.  [npm-lib-template](https://github.com/sonofmagic/npm-lib-template) (2024-08-02 10:31:38)
+
+    npm-lib-template
+
+10. [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-08-02 03:19:30)
+
+    🚀 Vite5 + Vue2 + Tailwindcss + TypeScript Starter Template
+
+11. [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2024-07-30 09:31:32)
+
+    weapp-navigate
 
 12. [node-ip2region](https://github.com/sonofmagic/node-ip2region) (2024-07-29 07:35:27)
 
@@ -169,27 +169,27 @@
 
 ## JavaScript (15)
 
-1.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2024-08-06 01:23:22)
+1.  [vue-mini-tailwindcss-template](https://github.com/sonofmagic/vue-mini-tailwindcss-template) (2024-08-08 00:58:13)
+
+2.  [npm-proxy-verdaccio](https://github.com/sonofmagic/npm-proxy-verdaccio) (2024-08-07 03:13:51)
+
+    npm-proxy-verdaccio
+
+3.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2024-08-07 01:24:07)
 
     drift aimlessly through life
 
-2.  [vue-mini-tailwindcss-template](https://github.com/sonofmagic/vue-mini-tailwindcss-template) (2024-08-04 02:20:59)
-
-3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2024-07-20 14:44:29)
+4.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2024-07-20 14:44:29)
 
     uni-app-vue2-tailwind-vscode-template
 
-4.  [tailwindcss-vs-unocss-postcss-plugin](https://github.com/sonofmagic/tailwindcss-vs-unocss-postcss-plugin) (2024-07-03 04:14:59)
+5.  [tailwindcss-vs-unocss-postcss-plugin](https://github.com/sonofmagic/tailwindcss-vs-unocss-postcss-plugin) (2024-07-03 04:14:59)
 
     tailwindcss-vs-unocss-postcss-plugin
 
-5.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2024-06-18 03:01:20)
+6.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2024-06-18 03:01:20)
 
     使用 webpack,rollup,esbuild 来打包nodejs
-
-6.  [npm-proxy-verdaccio](https://github.com/sonofmagic/npm-proxy-verdaccio) (2024-04-08 14:26:57)
-
-    npm-proxy-verdaccio
 
 7.  [weapp-program-card](https://github.com/sonofmagic/weapp-program-card) (2024-02-06 21:33:00)
 
@@ -229,17 +229,17 @@
 
 ## Vue (9)
 
-1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-08-06 10:22:01)
+1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-08-07 15:59:50)
+
+    uni-app-vue3-tailwind-hbuilder-template
+
+2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-08-07 09:23:34)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
 
-2.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-07-27 15:39:25)
+3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-07-27 15:39:25)
 
     ssg blog writed by nuxt , cloudbase and serverless cloud function
-
-3.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-07-20 15:47:21)
-
-    uni-app-vue3-tailwind-hbuilder-template
 
 4.  [uni-app-vue3-for-amap-wx](https://github.com/sonofmagic/uni-app-vue3-for-amap-wx) (2024-04-30 14:26:16)
 
@@ -265,7 +265,7 @@
 
 ## unknown (5)
 
-1.  [public-repos-hub](https://github.com/sonofmagic/public-repos-hub) (2024-08-06 01:13:07)
+1.  [public-repos-hub](https://github.com/sonofmagic/public-repos-hub) (2024-08-07 01:13:52)
 
     Auto generated by https://github.com/sonofmagic/github-repository-distributor
 
@@ -291,4 +291,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-08-07 01:13:49
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-08-08 01:13:40
