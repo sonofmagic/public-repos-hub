@@ -9,49 +9,49 @@
 
 ## TypeScript (41)
 
-1.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-08-14 22:43:34)
-
-    a obfuscator tool for tailwindcss mangle
-
-2.  [monorepo-template](https://github.com/sonofmagic/monorepo-template) (2024-08-14 17:02:24)
-
-    pnpm-turbo-monorepo-template
-
-3.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-08-14 16:57:06)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-08-16 01:09:02)
 
     bring tailwindcss to weapp ! 把 \`tailwindcss\` 原子化思想带入小程序开发吧 ! 原 \`weapp-tailwindcss-webpack-plugin\`
 
-4.  [npm-lib-template](https://github.com/sonofmagic/npm-lib-template) (2024-08-14 11:05:43)
+2.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2024-08-15 15:31:51)
+
+    my eslint config hub
+
+3.  [monorepo-template](https://github.com/sonofmagic/monorepo-template) (2024-08-15 06:55:21)
+
+    pnpm-turbo-monorepo-template
+
+4.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-08-15 04:24:32)
+
+    a obfuscator tool for tailwindcss mangle
+
+5.  [npm-lib-template](https://github.com/sonofmagic/npm-lib-template) (2024-08-14 11:05:43)
 
     npm-lib-template
 
-5.  [is-css-request](https://github.com/sonofmagic/is-css-request) (2024-08-10 08:21:28)
+6.  [is-css-request](https://github.com/sonofmagic/is-css-request) (2024-08-10 08:21:28)
 
     Utils for Checking if a path or url points to a CSS request.
 
-6.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-08-09 10:58:45)
+7.  [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-08-09 10:58:45)
 
     To use pandacss in weapp!&#x20;
 
-7.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-08-09 09:22:43)
+8.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-08-09 09:22:43)
 
     taro-react-tailwind-vscode-template
 
-8.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-08-09 04:07:08)
+9.  [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-08-09 04:07:08)
 
     🚀 Vite5 + Vue2 + Tailwindcss + TypeScript Starter Template
 
-9.  [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2024-08-09 04:03:26)
+10. [weapp-navigate](https://github.com/sonofmagic/weapp-navigate) (2024-08-09 04:03:26)
 
     weapp-navigate
 
-10. [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2024-08-09 03:29:14)
+11. [serverless-aws-cn-guide](https://github.com/sonofmagic/serverless-aws-cn-guide) (2024-08-09 03:29:14)
 
     serverless-aws-cn-guide
-
-11. [eslint-config](https://github.com/sonofmagic/eslint-config) (2024-08-09 03:19:04)
-
-    my eslint config hub
 
 12. [icebreakers-utils](https://github.com/sonofmagic/icebreakers-utils) (2024-08-08 16:39:48)
 
@@ -169,17 +169,17 @@
 
 ## JavaScript (15)
 
-1.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2024-08-14 12:45:53)
+1.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2024-08-15 01:19:50)
+
+    drift aimlessly through life
+
+2.  [hello-node-bundler](https://github.com/sonofmagic/hello-node-bundler) (2024-08-14 12:45:53)
 
     使用 webpack,rollup,esbuild 来打包nodejs
 
-2.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2024-08-14 07:54:43)
+3.  [uni-app-vue2-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vue2-tailwind-vscode-template) (2024-08-14 07:54:43)
 
     uni-app-vue2-tailwind-vscode-template
-
-3.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2024-08-14 01:24:26)
-
-    drift aimlessly through life
 
 4.  [vue-mini-tailwindcss-template](https://github.com/sonofmagic/vue-mini-tailwindcss-template) (2024-08-12 00:43:06)
 
@@ -229,13 +229,13 @@
 
 ## Vue (9)
 
-1.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-08-14 20:19:18)
-
-    uni-app-vue3-tailwind-hbuilder-template
-
-2.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-08-12 00:31:10)
+1.  [uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) (2024-08-15 09:10:00)
 
     uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案
+
+2.  [uni-app-vue3-tailwind-hbuilder-template](https://github.com/sonofmagic/uni-app-vue3-tailwind-hbuilder-template) (2024-08-14 20:19:18)
+
+    uni-app-vue3-tailwind-hbuilder-template
 
 3.  [icebreaker.top](https://github.com/sonofmagic/icebreaker.top) (2024-07-27 15:39:25)
 
@@ -265,7 +265,7 @@
 
 ## unknown (5)
 
-1.  [public-repos-hub](https://github.com/sonofmagic/public-repos-hub) (2024-08-14 01:14:22)
+1.  [public-repos-hub](https://github.com/sonofmagic/public-repos-hub) (2024-08-15 01:10:38)
 
     Auto generated by https://github.com/sonofmagic/github-repository-distributor
 
@@ -291,4 +291,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-08-15 01:10:35
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-08-16 01:13:30
