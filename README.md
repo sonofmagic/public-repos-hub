@@ -9,65 +9,65 @@
 
 ## TypeScript (43)
 
-1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-09-16 00:29:51)
+1.  [weapp-tailwindcss](https://github.com/sonofmagic/weapp-tailwindcss) (2024-09-16 17:35:04)
 
     weapp-tailwindcss - bring tailwindcss to weapp ! 把 tailwindcss 原子化思想带入小程序开发吧 !  weapp-vite 把现代化的开发模式带入小程序开发
 
-2.  [monorepo-template](https://github.com/sonofmagic/monorepo-template) (2024-09-15 16:04:26)
+2.  [vite-vue3-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue3-ts-tailwindcss-template) (2024-09-16 15:59:16)
+
+3.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2024-09-16 14:46:22)
+
+4.  [monorepo-template](https://github.com/sonofmagic/monorepo-template) (2024-09-16 06:40:07)
 
     icebreaker's monorepo template
 
-3.  [postcss-plugins](https://github.com/sonofmagic/postcss-plugins) (2024-09-15 15:07:16)
-
-    icebreaker's postcss-plugins
-
-4.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2024-09-15 14:07:42)
+5.  [eslint-config](https://github.com/sonofmagic/eslint-config) (2024-09-16 06:25:16)
 
     icebreaker style eslint
 
-5.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-09-15 12:03:34)
+6.  [is-css-request](https://github.com/sonofmagic/is-css-request) (2024-09-16 04:43:15)
+
+    Utils for Checking if a path or url points to a CSS request.
+
+7.  [postcss-plugins](https://github.com/sonofmagic/postcss-plugins) (2024-09-15 15:07:16)
+
+    icebreaker's postcss-plugins
+
+8.  [tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) (2024-09-15 12:03:34)
 
     a obfuscator tool for tailwindcss mangle
 
-6.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-09-13 17:07:35)
+9.  [taro-react-tailwind-vscode-template](https://github.com/sonofmagic/taro-react-tailwind-vscode-template) (2024-09-13 17:07:35)
 
     taro-react-tailwind-vscode-template
 
-7.  [npm-lib-template](https://github.com/sonofmagic/npm-lib-template) (2024-09-13 00:51:46)
+10. [npm-lib-template](https://github.com/sonofmagic/npm-lib-template) (2024-09-13 00:51:46)
 
     npm-lib-template
 
-8.  [icebreakers-utils](https://github.com/sonofmagic/icebreakers-utils) (2024-09-11 10:04:02)
+11. [icebreakers-utils](https://github.com/sonofmagic/icebreakers-utils) (2024-09-11 10:04:02)
 
     icebreaker's utils hub
 
-9.  [taro-vue3-tailwind-vscode-template](https://github.com/sonofmagic/taro-vue3-tailwind-vscode-template) (2024-09-09 11:38:23)
-
-10. [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2024-09-07 05:21:24)
+12. [postcss-rem-to-responsive-pixel](https://github.com/sonofmagic/postcss-rem-to-responsive-pixel) (2024-09-07 05:21:24)
 
     Convert rem units to px or rpx units using PostCSS. Based on postcss-pxtorem and postcss-rem-to-pixel, and rewrite with typescript, and support Postcss8
 
-11. [vite-vue3-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue3-ts-tailwindcss-template) (2024-09-04 01:32:24)
-
-12. [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-09-01 12:10:00)
+13. [vite-vue2-ts-tailwindcss-template](https://github.com/sonofmagic/vite-vue2-ts-tailwindcss-template) (2024-09-01 12:10:00)
 
     🚀 Vite5 + Vue2 + Tailwindcss + TypeScript Starter Template
 
-13. [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2024-08-31 03:54:48)
+14. [tailwindcss-miniprogram-preset](https://github.com/sonofmagic/tailwindcss-miniprogram-preset) (2024-08-31 03:54:48)
 
     tailwindcss-miniprogram-preset, 用 tailwindcss 来改善你的小程序开发体验吧
 
-14. [postcss-rpx-transform](https://github.com/sonofmagic/postcss-rpx-transform) (2024-08-16 07:17:52)
+15. [postcss-rpx-transform](https://github.com/sonofmagic/postcss-rpx-transform) (2024-08-16 07:17:52)
 
     postcss-rpx-transform
 
-15. [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2024-08-16 04:32:38)
+16. [serverless-devs-nestjs](https://github.com/sonofmagic/serverless-devs-nestjs) (2024-08-16 04:32:38)
 
     多种方式使用 \`serverless-devs\` 把 \`nestjs\` 部署到阿里云函数计算
-
-16. [is-css-request](https://github.com/sonofmagic/is-css-request) (2024-08-10 08:21:28)
-
-    Utils for Checking if a path or url points to a CSS request.
 
 17. [weapp-pandacss](https://github.com/sonofmagic/weapp-pandacss) (2024-08-09 10:58:45)
 
@@ -175,7 +175,7 @@
 
 ## JavaScript (16)
 
-1.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2024-09-15 01:44:50)
+1.  [sonofmagic](https://github.com/sonofmagic/sonofmagic) (2024-09-16 01:41:37)
 
     drift aimlessly through life
 
@@ -271,7 +271,7 @@
 
 ## unknown (5)
 
-1.  [public-repos-hub](https://github.com/sonofmagic/public-repos-hub) (2024-09-15 01:26:13)
+1.  [public-repos-hub](https://github.com/sonofmagic/public-repos-hub) (2024-09-16 01:22:50)
 
     Auto generated by https://github.com/sonofmagic/github-repository-distributor
 
@@ -297,4 +297,4 @@
 
 ***
 
-Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-09-16 01:22:47
+Generate by [`sonofmagic/github-repository-distributor`](https://github.com/sonofmagic/github-repository-distributor) at 2024-09-17 01:05:42
